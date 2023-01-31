@@ -1,0 +1,154 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.jetbrains.dokka",
+    "module": "dokka-gradle-plugin",
+    "version": "1.7.20",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.dokka",
+          "module": "dokka-core",
+          "version": {
+            "requires": "1.7.20"
+          },
+          "excludes": [
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-reflect"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-jdk8"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-jdk7"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-script-runtime"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-common"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "dokka-gradle-plugin-1.7.20.jar",
+          "url": "dokka-gradle-plugin-1.7.20.jar",
+          "size": 146032,
+          "sha512": "e2d80d5349d66418854308356c3fdd38f6c0a7f5315cbc4377fde2def14b150c1e60733e9d42515053e486458930d5b26b1930a1c271a722a79a75f68c312157",
+          "sha256": "ee4c1413f8322c57b24eb5a48de01644fe1414311d3b0d72f5033041ad610a32",
+          "sha1": "f27a03dea97e60586f8a180ff78ee06729a812f2",
+          "md5": "ffdfa8f699d7e11802d80fa26fc7aa38"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.dokka",
+          "module": "dokka-core",
+          "version": {
+            "requires": "1.7.20"
+          },
+          "excludes": [
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-reflect"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-jdk8"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-jdk7"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-script-runtime"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-common"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "dokka-gradle-plugin-1.7.20.jar",
+          "url": "dokka-gradle-plugin-1.7.20.jar",
+          "size": 146032,
+          "sha512": "e2d80d5349d66418854308356c3fdd38f6c0a7f5315cbc4377fde2def14b150c1e60733e9d42515053e486458930d5b26b1930a1c271a722a79a75f68c312157",
+          "sha256": "ee4c1413f8322c57b24eb5a48de01644fe1414311d3b0d72f5033041ad610a32",
+          "sha1": "f27a03dea97e60586f8a180ff78ee06729a812f2",
+          "md5": "ffdfa8f699d7e11802d80fa26fc7aa38"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dokka-gradle-plugin-1.7.20-sources.jar",
+          "url": "dokka-gradle-plugin-1.7.20-sources.jar",
+          "size": 25666,
+          "sha512": "c6b5d234d3b8fc78dbede63dd96aa097174d0b2c6a753f266b3880151c7f45b6e2a15c922e7f79062b7c6541e497f2e0a54ff4217835d43bf3e1bd4fcad0a449",
+          "sha256": "2c9659333cad3f93dcaf9ee9bd7a05d4678fc5b021897f4907005466ed5ed808",
+          "sha1": "952e51e1ff7b4e2c9b8d6935941bb53934e2c868",
+          "md5": "64d320cdac7eb2d9bef2f64ef0ea51b3"
+        }
+      ]
+    }
+  ]
+}

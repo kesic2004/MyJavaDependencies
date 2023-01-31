@@ -1,0 +1,119 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../kotlinx-serialization-protobuf/1.4.0/kotlinx-serialization-protobuf-1.4.0.module",
+    "group": "org.jetbrains.kotlinx",
+    "module": "kotlinx-serialization-protobuf",
+    "version": "1.4.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "jvmApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.7.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.7.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-core",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "kotlinx-serialization-protobuf-jvm-1.4.0.jar",
+          "url": "kotlinx-serialization-protobuf-jvm-1.4.0.jar",
+          "size": 100421,
+          "sha512": "8ee348a2096216a23df004895f8e1a8f8f97ffdebfd8ff79de9a1793bbe829f7e6f6636a5ade25360b2e85f98181dfb3d82bf472fd297b02869f051ee213693b",
+          "sha256": "69a4c1af0cd1f6b883783e657e30596eeb5616a1d6bd3e6bd096c980a4bb9da4",
+          "sha1": "02c040a83abf277f4a5bddbaed9c760e157518ac",
+          "md5": "f47077389f60f76c312db9b0415d5f7a"
+        }
+      ]
+    },
+    {
+      "name": "jvmRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.7.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.7.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-core",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "kotlinx-serialization-protobuf-jvm-1.4.0.jar",
+          "url": "kotlinx-serialization-protobuf-jvm-1.4.0.jar",
+          "size": 100421,
+          "sha512": "8ee348a2096216a23df004895f8e1a8f8f97ffdebfd8ff79de9a1793bbe829f7e6f6636a5ade25360b2e85f98181dfb3d82bf472fd297b02869f051ee213693b",
+          "sha256": "69a4c1af0cd1f6b883783e657e30596eeb5616a1d6bd3e6bd096c980a4bb9da4",
+          "sha1": "02c040a83abf277f4a5bddbaed9c760e157518ac",
+          "md5": "f47077389f60f76c312db9b0415d5f7a"
+        }
+      ]
+    }
+  ]
+}

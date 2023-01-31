@@ -1,0 +1,147 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.junit.platform",
+    "module": "junit-platform-suite-api",
+    "version": "1.9.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.junit",
+          "module": "junit-bom",
+          "version": {
+            "requires": "5.9.1"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.junit.platform",
+          "module": "junit-platform-commons",
+          "version": {
+            "requires": "1.9.1"
+          }
+        },
+        {
+          "group": "org.apiguardian",
+          "module": "apiguardian-api",
+          "version": {
+            "requires": "1.1.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "junit-platform-suite-api-1.9.1.jar",
+          "url": "junit-platform-suite-api-1.9.1.jar",
+          "size": 21227,
+          "sha512": "9adf0e5b4c60e272a2b70967ebeee3ef7b654b6a05575f1ae28ba8fdec58712e7265ebf1075ac7b47ce68f5cdd1a12f78a9f22a6d49380894d84d2a6c06f5582",
+          "sha256": "f49e2a8983a52e2e5566a16828d634a02592ab8bf51d23c5c091214bc15e57b4",
+          "sha1": "224e8c1232df8233a58c2eb7b1f081bdddd658fb",
+          "md5": "f3e82e86d5681a5323a68b15b9d36d1f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.junit",
+          "module": "junit-bom",
+          "version": {
+            "requires": "5.9.1"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.junit.platform",
+          "module": "junit-platform-commons",
+          "version": {
+            "requires": "1.9.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "junit-platform-suite-api-1.9.1.jar",
+          "url": "junit-platform-suite-api-1.9.1.jar",
+          "size": 21227,
+          "sha512": "9adf0e5b4c60e272a2b70967ebeee3ef7b654b6a05575f1ae28ba8fdec58712e7265ebf1075ac7b47ce68f5cdd1a12f78a9f22a6d49380894d84d2a6c06f5582",
+          "sha256": "f49e2a8983a52e2e5566a16828d634a02592ab8bf51d23c5c091214bc15e57b4",
+          "sha1": "224e8c1232df8233a58c2eb7b1f081bdddd658fb",
+          "md5": "f3e82e86d5681a5323a68b15b9d36d1f"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "junit-platform-suite-api-1.9.1-javadoc.jar",
+          "url": "junit-platform-suite-api-1.9.1-javadoc.jar",
+          "size": 207638,
+          "sha512": "a452a612ef93f34db8c1e7c1e86af195fdd1367f6aa1050eb9f027360e5a686f1c066cd0e783939227feae629beeb885f962cf40271d75831ada0039b4da2a4d",
+          "sha256": "3b8c42ba2bdf26fba1d89ac7686ff200b991a98f557f75d5573bb05884d65279",
+          "sha1": "ca5e8902b8c4f9965422e016cb55b17dbdd01afa",
+          "md5": "ccc66ac94eab31cd36a362b5c28ec721"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "junit-platform-suite-api-1.9.1-sources.jar",
+          "url": "junit-platform-suite-api-1.9.1-sources.jar",
+          "size": 27907,
+          "sha512": "5aea30e37fd9f17f9ea1f9399e65aa5afe7118167e412b5a66483f1f018105f43f758cecf5c896eb95d7edf10c45997e0b9fd0189aeec50f9cf83478a9a2c3c6",
+          "sha256": "20d749d6257496257670a00b70a9239cbb7f805bb6a9e3796e62c8dd0752ff3c",
+          "sha1": "9b06c54a8c696039ae92cd1e45cb2277015b0127",
+          "md5": "87c3823d2f8cce809200fc0ee986e5c6"
+        }
+      ]
+    }
+  ]
+}

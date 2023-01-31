@@ -1,0 +1,92 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.eclipse.ee4j</groupId>
+    <artifactId>project</artifactId>
+    <version>1.0.6</version>
+  </parent>
+
+  <groupId>jakarta.inject</groupId>
+  <artifactId>jakarta.inject-tck</artifactId>
+  <version>2.0.1</version>
+  <packaging>jar</packaging>
+  <name>Jakarta Dependency Injection API TCK</name>
+  <description>The Jakarta Dependency Injection API - TCK</description>
+  <url>https://github.com/eclipse-ee4j/injection-tck</url>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <scm>
+    <connection>scm:git:ssh://git@github.com/eclipse-ee4j/injection-tck.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/eclipse-ee4j/injection-tck.git</developerConnection>
+    <url>https://github.com/eclipse-ee4j/injection-tck</url>
+    <tag>HEAD</tag>
+  </scm>
+
+  <properties>
+    <maven.compiler.target>1.8</maven.compiler.target>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <!-- dependency-injection api jar version -->
+    <atinject.version>2.0.0</atinject.version>
+    <!-- What license to include in the dist binary. For Jakarta releases that are used to certify implementations, this
+    must be the EFTL.txt file. Default is the Apache license. Override with -Dlicense.file=EFTL.txt in CI build of
+    final release version.
+    -->
+    <license.file>LICENSE.txt</license.file>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>jakarta.inject</groupId>
+      <artifactId>jakarta.inject-api</artifactId>
+      <version>${atinject.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.7</version>
+    </dependency>
+  </dependencies>
+
+  <developers>
+    <developer>
+      <id>various</id>
+      <name>Various</name>
+      <email>cdi-dev@eclipse.org</email>
+      <url>https://accounts.eclipse.org/mailing-list/cdi-dev</url>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-assembly-plugin</artifactId>
+        <version>3.1.1</version>
+        <configuration>
+          <tarLongFileMode>posix</tarLongFileMode>
+          <descriptors>
+            <descriptor>src/assembly/src.xml</descriptor>
+          </descriptors>
+        </configuration>
+        <executions>
+          <execution>
+            <id>make-assembly</id>
+            <phase>package</phase>
+            <goals>
+              <goal>single</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+</project>

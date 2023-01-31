@@ -1,0 +1,584 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.jetbrains.kotlin",
+    "module": "kotlin-serialization",
+    "version": "1.7.20",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "kotlin-serialization-1.7.20-sources.jar",
+          "url": "kotlin-serialization-1.7.20-sources.jar",
+          "size": 2621,
+          "sha512": "e43447872c4d5b8514cf7f691591ea12dcb300a8131a963ca18d0af944d8f392927850e88eaf009fd68a8e144ccb064481bb40e75e2e169b27ea0cd8487c1489",
+          "sha256": "3efc585dc2de7776adc69b2a6d292d4f5550bc25a43f238bae2a3b9b3a06da27",
+          "sha1": "c2ed75a824a9b76e9798b246f784443bb893ea9b",
+          "md5": "63d26b89bf33ff6fe78de4e745425c50"
+        },
+        {
+          "name": "kotlin-serialization-1.7.20-sources.jar",
+          "url": "kotlin-serialization-1.7.20-sources.jar",
+          "size": 2621,
+          "sha512": "e43447872c4d5b8514cf7f691591ea12dcb300a8131a963ca18d0af944d8f392927850e88eaf009fd68a8e144ccb064481bb40e75e2e169b27ea0cd8487c1489",
+          "sha256": "3efc585dc2de7776adc69b2a6d292d4f5550bc25a43f238bae2a3b9b3a06da27",
+          "sha1": "c2ed75a824a9b76e9798b246f784443bb893ea9b",
+          "md5": "63d26b89bf33ff6fe78de4e745425c50"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "kotlin-serialization-1.7.20-javadoc.jar",
+          "url": "kotlin-serialization-1.7.20-javadoc.jar",
+          "size": 270143,
+          "sha512": "fe440c8c9d370b4ff2592caffb92edec93a44cfff28378971656478970a69cca65ce7c9523b802b45e0dc0a606f05fce199e67e133e732d8d238e9836b1fab99",
+          "sha256": "bdfc1cde46e310bdb5bd392faa3f2d8d2ff28928617a434a40a98e924683ce63",
+          "sha1": "a3c0d8ce686816df96309b3b84b697dc680d92d9",
+          "md5": "96d5b64697325dfd70ca407eff73b3a8"
+        },
+        {
+          "name": "kotlin-serialization-1.7.20-javadoc.jar",
+          "url": "kotlin-serialization-1.7.20-javadoc.jar",
+          "size": 270143,
+          "sha512": "fe440c8c9d370b4ff2592caffb92edec93a44cfff28378971656478970a69cca65ce7c9523b802b45e0dc0a606f05fce199e67e133e732d8d238e9836b1fab99",
+          "sha256": "bdfc1cde46e310bdb5bd392faa3f2d8d2ff28928617a434a40a98e924683ce63",
+          "sha1": "a3c0d8ce686816df96309b3b84b697dc680d92d9",
+          "md5": "96d5b64697325dfd70ca407eff73b3a8"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElementsWithFixedAttribute",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-gradle-plugin-api",
+          "version": {
+            "requires": "1.7.20"
+          },
+          "excludes": [
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-reflect"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-jdk8"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-jdk7"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-script-runtime"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-common"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "kotlin-serialization-1.7.20.jar",
+          "url": "kotlin-serialization-1.7.20.jar",
+          "size": 700632,
+          "sha512": "1ae1517ce10314afbc4dd526aebb9647cc20851ae264da04e4fe8b263ca5fc62579e649711db802a096b7d01adfc3d1ba1dd12bae050e278e0cd8852fd5faf8b",
+          "sha256": "d55b9e80d6d5a61595bd2f3fe82cb2cdc2bd86632df7bf6cab34d0d82e81fdc7",
+          "sha1": "8ea08d9322e0048ca3678b714d876d6258af01ba",
+          "md5": "adf4b638307691f1a94367f71e9486a8"
+        }
+      ]
+    },
+    {
+      "name": "apiElementsWithFixedAttribute",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-gradle-plugin-api",
+          "version": {
+            "requires": "1.7.20"
+          },
+          "excludes": [
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-reflect"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-jdk8"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-jdk7"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-script-runtime"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-common"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "kotlin-serialization-1.7.20.jar",
+          "url": "kotlin-serialization-1.7.20.jar",
+          "size": 700632,
+          "sha512": "1ae1517ce10314afbc4dd526aebb9647cc20851ae264da04e4fe8b263ca5fc62579e649711db802a096b7d01adfc3d1ba1dd12bae050e278e0cd8852fd5faf8b",
+          "sha256": "d55b9e80d6d5a61595bd2f3fe82cb2cdc2bd86632df7bf6cab34d0d82e81fdc7",
+          "sha1": "8ea08d9322e0048ca3678b714d876d6258af01ba",
+          "md5": "adf4b638307691f1a94367f71e9486a8"
+        }
+      ]
+    },
+    {
+      "name": "gradle70JavadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.plugin.api-version": "7.0",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "kotlin-serialization-1.7.20-gradle70-javadoc.jar",
+          "url": "kotlin-serialization-1.7.20-gradle70-javadoc.jar",
+          "size": 270143,
+          "sha512": "fe440c8c9d370b4ff2592caffb92edec93a44cfff28378971656478970a69cca65ce7c9523b802b45e0dc0a606f05fce199e67e133e732d8d238e9836b1fab99",
+          "sha256": "bdfc1cde46e310bdb5bd392faa3f2d8d2ff28928617a434a40a98e924683ce63",
+          "sha1": "a3c0d8ce686816df96309b3b84b697dc680d92d9",
+          "md5": "96d5b64697325dfd70ca407eff73b3a8"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "name": "kotlin-serialization",
+          "version": "1.7.20"
+        }
+      ]
+    },
+    {
+      "name": "gradle70SourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.plugin.api-version": "7.0",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "kotlin-serialization-1.7.20-gradle70-sources.jar",
+          "url": "kotlin-serialization-1.7.20-gradle70-sources.jar",
+          "size": 122663,
+          "sha512": "1ae0833f4562f9a01c93895675832057eb42abb282b8950c5c8781b3f058b1e5607d3f74a0abb4bb171bd5960daab524374ee14ac9c71a81a75590bc35afcb24",
+          "sha256": "8ddd0fbfad9bd2a1ddcfc42e4a9218fcaf97405e8c5bddc7ff00dd4ffd84ed2b",
+          "sha1": "b67fc663fe77ef8b3ddc9bdf842138b55aeadd28",
+          "md5": "aa164e4c46f3fb889e83ce1679945fb0"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "name": "kotlin-serialization",
+          "version": "1.7.20"
+        }
+      ]
+    },
+    {
+      "name": "gradle70ApiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.plugin.api-version": "7.0",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-gradle-plugin-api",
+          "version": {
+            "requires": "1.7.20"
+          },
+          "excludes": [
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-reflect"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-jdk8"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-jdk7"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-script-runtime"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-common"
+            }
+          ],
+          "requestedCapabilities": [
+            {
+              "group": "org.jetbrains.kotlin",
+              "name": "kotlin-gradle-plugin-api-gradle70"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "kotlin-serialization-1.7.20-gradle70.jar",
+          "url": "kotlin-serialization-1.7.20-gradle70.jar",
+          "size": 700632,
+          "sha512": "1ae1517ce10314afbc4dd526aebb9647cc20851ae264da04e4fe8b263ca5fc62579e649711db802a096b7d01adfc3d1ba1dd12bae050e278e0cd8852fd5faf8b",
+          "sha256": "d55b9e80d6d5a61595bd2f3fe82cb2cdc2bd86632df7bf6cab34d0d82e81fdc7",
+          "sha1": "8ea08d9322e0048ca3678b714d876d6258af01ba",
+          "md5": "adf4b638307691f1a94367f71e9486a8"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "name": "kotlin-serialization",
+          "version": "1.7.20"
+        }
+      ]
+    },
+    {
+      "name": "gradle70RuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.plugin.api-version": "7.0",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-gradle-plugin-api",
+          "version": {
+            "requires": "1.7.20"
+          },
+          "excludes": [
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-reflect"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-jdk8"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-jdk7"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-script-runtime"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-common"
+            }
+          ],
+          "requestedCapabilities": [
+            {
+              "group": "org.jetbrains.kotlin",
+              "name": "kotlin-gradle-plugin-api-gradle70"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "kotlin-serialization-1.7.20-gradle70.jar",
+          "url": "kotlin-serialization-1.7.20-gradle70.jar",
+          "size": 700632,
+          "sha512": "1ae1517ce10314afbc4dd526aebb9647cc20851ae264da04e4fe8b263ca5fc62579e649711db802a096b7d01adfc3d1ba1dd12bae050e278e0cd8852fd5faf8b",
+          "sha256": "d55b9e80d6d5a61595bd2f3fe82cb2cdc2bd86632df7bf6cab34d0d82e81fdc7",
+          "sha1": "8ea08d9322e0048ca3678b714d876d6258af01ba",
+          "md5": "adf4b638307691f1a94367f71e9486a8"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "name": "kotlin-serialization",
+          "version": "1.7.20"
+        }
+      ]
+    },
+    {
+      "name": "gradle71JavadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.plugin.api-version": "7.1",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "kotlin-serialization-1.7.20-gradle71-javadoc.jar",
+          "url": "kotlin-serialization-1.7.20-gradle71-javadoc.jar",
+          "size": 270143,
+          "sha512": "fe440c8c9d370b4ff2592caffb92edec93a44cfff28378971656478970a69cca65ce7c9523b802b45e0dc0a606f05fce199e67e133e732d8d238e9836b1fab99",
+          "sha256": "bdfc1cde46e310bdb5bd392faa3f2d8d2ff28928617a434a40a98e924683ce63",
+          "sha1": "a3c0d8ce686816df96309b3b84b697dc680d92d9",
+          "md5": "96d5b64697325dfd70ca407eff73b3a8"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "name": "kotlin-serialization",
+          "version": "1.7.20"
+        }
+      ]
+    },
+    {
+      "name": "gradle71SourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.plugin.api-version": "7.1",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "kotlin-serialization-1.7.20-gradle71-sources.jar",
+          "url": "kotlin-serialization-1.7.20-gradle71-sources.jar",
+          "size": 122663,
+          "sha512": "1ae0833f4562f9a01c93895675832057eb42abb282b8950c5c8781b3f058b1e5607d3f74a0abb4bb171bd5960daab524374ee14ac9c71a81a75590bc35afcb24",
+          "sha256": "8ddd0fbfad9bd2a1ddcfc42e4a9218fcaf97405e8c5bddc7ff00dd4ffd84ed2b",
+          "sha1": "b67fc663fe77ef8b3ddc9bdf842138b55aeadd28",
+          "md5": "aa164e4c46f3fb889e83ce1679945fb0"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "name": "kotlin-serialization",
+          "version": "1.7.20"
+        }
+      ]
+    },
+    {
+      "name": "gradle71ApiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.plugin.api-version": "7.1",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-gradle-plugin-api",
+          "version": {
+            "requires": "1.7.20"
+          },
+          "excludes": [
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-reflect"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-jdk8"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-jdk7"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-script-runtime"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-common"
+            }
+          ],
+          "requestedCapabilities": [
+            {
+              "group": "org.jetbrains.kotlin",
+              "name": "kotlin-gradle-plugin-api-gradle71"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "kotlin-serialization-1.7.20-gradle71.jar",
+          "url": "kotlin-serialization-1.7.20-gradle71.jar",
+          "size": 700632,
+          "sha512": "1ae1517ce10314afbc4dd526aebb9647cc20851ae264da04e4fe8b263ca5fc62579e649711db802a096b7d01adfc3d1ba1dd12bae050e278e0cd8852fd5faf8b",
+          "sha256": "d55b9e80d6d5a61595bd2f3fe82cb2cdc2bd86632df7bf6cab34d0d82e81fdc7",
+          "sha1": "8ea08d9322e0048ca3678b714d876d6258af01ba",
+          "md5": "adf4b638307691f1a94367f71e9486a8"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "name": "kotlin-serialization",
+          "version": "1.7.20"
+        }
+      ]
+    },
+    {
+      "name": "gradle71RuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.plugin.api-version": "7.1",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-gradle-plugin-api",
+          "version": {
+            "requires": "1.7.20"
+          },
+          "excludes": [
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-reflect"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-jdk8"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-jdk7"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-script-runtime"
+            },
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib-common"
+            }
+          ],
+          "requestedCapabilities": [
+            {
+              "group": "org.jetbrains.kotlin",
+              "name": "kotlin-gradle-plugin-api-gradle71"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "kotlin-serialization-1.7.20-gradle71.jar",
+          "url": "kotlin-serialization-1.7.20-gradle71.jar",
+          "size": 700632,
+          "sha512": "1ae1517ce10314afbc4dd526aebb9647cc20851ae264da04e4fe8b263ca5fc62579e649711db802a096b7d01adfc3d1ba1dd12bae050e278e0cd8852fd5faf8b",
+          "sha256": "d55b9e80d6d5a61595bd2f3fe82cb2cdc2bd86632df7bf6cab34d0d82e81fdc7",
+          "sha1": "8ea08d9322e0048ca3678b714d876d6258af01ba",
+          "md5": "adf4b638307691f1a94367f71e9486a8"
+        }
+      ],
+      "capabilities": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "name": "kotlin-serialization",
+          "version": "1.7.20"
+        }
+      ]
+    }
+  ]
+}

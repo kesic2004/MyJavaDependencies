@@ -1,0 +1,142 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.junit.support",
+    "module": "testng-engine",
+    "version": "1.0.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.junit",
+          "module": "junit-bom",
+          "version": {
+            "requires": "5.7.2"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.junit.platform",
+          "module": "junit-platform-engine"
+        }
+      ],
+      "files": [
+        {
+          "name": "testng-engine-1.0.4.jar",
+          "url": "testng-engine-1.0.4.jar",
+          "size": 56390,
+          "sha512": "05c2ff975d2a3d891b08ede017325a436abb1e3390b64f1ef54a457e41086cb52665f11a95f9748ab37d35c83b19cb8049a70ffb90156f2270503df3f35f48f0",
+          "sha256": "6b6f029bd1b668d64271a6398d5d1c3937ba919de08ff7c03b20142a84dd14f9",
+          "sha1": "f22a455e61af767517511278e268e22ea43af695",
+          "md5": "bc7d754857987431c1318f25fb932e1b"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.testng",
+          "module": "testng",
+          "version": {
+            "requires": "6.14.3",
+            "prefers": "7.5"
+          }
+        },
+        {
+          "group": "org.junit",
+          "module": "junit-bom",
+          "version": {
+            "requires": "5.7.2"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.junit.platform",
+          "module": "junit-platform-engine"
+        }
+      ],
+      "files": [
+        {
+          "name": "testng-engine-1.0.4.jar",
+          "url": "testng-engine-1.0.4.jar",
+          "size": 56390,
+          "sha512": "05c2ff975d2a3d891b08ede017325a436abb1e3390b64f1ef54a457e41086cb52665f11a95f9748ab37d35c83b19cb8049a70ffb90156f2270503df3f35f48f0",
+          "sha256": "6b6f029bd1b668d64271a6398d5d1c3937ba919de08ff7c03b20142a84dd14f9",
+          "sha1": "f22a455e61af767517511278e268e22ea43af695",
+          "md5": "bc7d754857987431c1318f25fb932e1b"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "testng-engine-1.0.4-javadoc.jar",
+          "url": "testng-engine-1.0.4-javadoc.jar",
+          "size": 124281,
+          "sha512": "0035f79fdb1354504a280474ac8cbbea430bccc4d96f5e33aa125ce4597ff218362a60628d2fe836b78ee9403611547817982c37402743401e4f66bad0b030f4",
+          "sha256": "800f1d7fd66d95730307ec1346cfbec9cb2c2d5082caa70f5039afca2cf89970",
+          "sha1": "3ef1cfab8610d5163627723728d9c8660915e338",
+          "md5": "ad30d82dbc7dc166545f1297e18c5392"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "testng-engine-1.0.4-sources.jar",
+          "url": "testng-engine-1.0.4-sources.jar",
+          "size": 26249,
+          "sha512": "a4489a4ef949d345be7e28b9c08d944a61707ce1f3e412b988cc1f393f9bd52ddc53072ba9b26446d7e0197799023ca22c232047f403e756273c838857278f42",
+          "sha256": "61ed1667c54886716fe361da2b3e98489f6a3fe5fe5fd45cee785a4b6e4b98d5",
+          "sha1": "a672b5f7ce81824c263debbf18decb9a4f507f7f",
+          "md5": "909ba3c069baf6ace8c86e2d4bdbf519"
+        }
+      ]
+    }
+  ]
+}

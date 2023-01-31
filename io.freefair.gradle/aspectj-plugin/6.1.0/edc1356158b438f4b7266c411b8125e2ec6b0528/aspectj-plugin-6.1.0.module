@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.freefair.gradle",
+    "module": "aspectj-plugin",
+    "version": "6.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.1.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "aspectj-plugin-6.1.0.jar",
+          "url": "aspectj-plugin-6.1.0.jar",
+          "size": 30230,
+          "sha512": "67d21761378d5e6c1dd75c6ee84de355ee8046174f61585042f9f5e7e74cfbb0df726c32ce27ded1e075d95eb4a49fe8ecc4df016720268133155646bdc4c5d2",
+          "sha256": "e0d2b49ef7b76ff7ef5dca1dd7a35925d9cc5495db4f9052fb6ef72f26a793c1",
+          "sha1": "bdccfddfabdc6d206b228d2371daba9bd7d29c9e",
+          "md5": "4e7b22f04cab808b4c2750f88f2ace5f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "aspectj-plugin-6.1.0.jar",
+          "url": "aspectj-plugin-6.1.0.jar",
+          "size": 30230,
+          "sha512": "67d21761378d5e6c1dd75c6ee84de355ee8046174f61585042f9f5e7e74cfbb0df726c32ce27ded1e075d95eb4a49fe8ecc4df016720268133155646bdc4c5d2",
+          "sha256": "e0d2b49ef7b76ff7ef5dca1dd7a35925d9cc5495db4f9052fb6ef72f26a793c1",
+          "sha1": "bdccfddfabdc6d206b228d2371daba9bd7d29c9e",
+          "md5": "4e7b22f04cab808b4c2750f88f2ace5f"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "aspectj-plugin-6.1.0-sources.jar",
+          "url": "aspectj-plugin-6.1.0-sources.jar",
+          "size": 14217,
+          "sha512": "2e2fba14ea5de060cd37b57c9afb0ab9cbd53b7ecf06816987f2b62a6672ea6cba3d174efcf902321d62342b556b7999836ba74e204253dd588777337e0642cd",
+          "sha256": "2a9bd647cb257fe92a9507f03b0f52ee471e5308cf8e7b25379993011de5067e",
+          "sha1": "6ed4f1c7b728f455dcda2c3240af7b6f9d2ab496",
+          "md5": "b4590a8abd54774502d1b4ce6b94381b"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "aspectj-plugin-6.1.0-javadoc.jar",
+          "url": "aspectj-plugin-6.1.0-javadoc.jar",
+          "size": 461569,
+          "sha512": "54afc2852fbb22673d69bb7b83e728a258976fd1a9fd536503788504da9e691186040a2bb1dd481be2831bfe2b83bb4ef14914e2049fd9fae5401c0ef74f8536",
+          "sha256": "d87c464bb610270a8eaa27fc87974420962771468f0156922d2b5a4adb61fb0a",
+          "sha1": "20e83d16edc587ce48d79ed0b79cac01fd4ae55c",
+          "md5": "4716b671cefa44d5fa36efd14b98dfaa"
+        }
+      ]
+    }
+  ]
+}

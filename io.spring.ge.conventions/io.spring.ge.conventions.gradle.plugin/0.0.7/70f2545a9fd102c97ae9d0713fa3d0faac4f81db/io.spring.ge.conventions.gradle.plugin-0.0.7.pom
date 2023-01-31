@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.spring.ge.conventions</groupId>
+  <artifactId>io.spring.ge.conventions.gradle.plugin</artifactId>
+  <version>0.0.7</version>
+  <packaging>pom</packaging>
+  <name>Gradle Enterprise Conventions Gradle plugin</name>
+  <description>Gradle Enterprise Conventions Gradle plugin</description>
+  <url>https://github.com/spring-io/gradle-enterprise-conventions</url>
+  <organization>
+    <name>Pivotal Software, Inc.</name>
+    <url>https://spring.io</url>
+  </organization>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>wilkinsona</id>
+      <name>Andy Wilkinson</name>
+      <email>awilkinson@pivotal.io</email>
+      <roles>
+        <role>Project lead</role>
+      </roles>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:https://github.com/spring-io/gradle-enterprise-conventions</connection>
+    <url>https://github.com/spring-io/gradle-enterprise-conventions</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>io.spring.ge.conventions</groupId>
+      <artifactId>gradle-enterprise-conventions-gradle-plugin</artifactId>
+      <version>0.0.7</version>
+    </dependency>
+  </dependencies>
+</project>
