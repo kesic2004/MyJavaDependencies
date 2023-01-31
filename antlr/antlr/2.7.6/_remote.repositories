@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 22 13:35:32 CST 2020
+antlr-2.7.6.pom>mvnrepository=
+antlr-2.7.6-sources.jar>central=
+antlr-2.7.6.jar>central=
+antlr-2.7.6.pom>central=
