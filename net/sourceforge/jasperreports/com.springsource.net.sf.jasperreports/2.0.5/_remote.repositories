@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 18:10:19 CST 2020
+com.springsource.net.sf.jasperreports-2.0.5-sources.jar>repository.springframework.maven.plugins-release=
+com.springsource.net.sf.jasperreports-2.0.5.jar>mvnrepository=
+com.springsource.net.sf.jasperreports-2.0.5.pom>repository.springframework.maven.plugins-release=
+com.springsource.net.sf.jasperreports-2.0.5.jar>repository.springframework.maven.plugins-release=
+com.springsource.net.sf.jasperreports-2.0.5-sources.jar>mvnrepository=
+com.springsource.net.sf.jasperreports-2.0.5.pom>mvnrepository=

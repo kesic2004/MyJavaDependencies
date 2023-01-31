@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Apr 09 03:09:11 GMT-05:00 2021
+com.springsource.org.jibx.runtime-1.1.5-sources.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.jibx.runtime-1.1.5.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.jibx.runtime-1.1.5.jar>spring_plugins=
+com.springsource.org.jibx.runtime-1.1.5.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.jibx.runtime-1.1.5.pom>spring_plugins=
