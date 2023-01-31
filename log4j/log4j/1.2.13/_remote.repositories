@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 17 09:25:43 CST 2020
+log4j-1.2.13.pom>mvnrepository=
+log4j-1.2.13-sources.jar>mvnrepository=
+log4j-1.2.13.jar>mvnrepository=
+log4j-1.2.13.jar>central=
+log4j-1.2.13.pom>central=
