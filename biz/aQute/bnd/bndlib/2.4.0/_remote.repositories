@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 18 03:20:48 GMT-05:00 2022
+bndlib-2.4.0.jar>central=
+bndlib-2.4.0.pom>central=
+bndlib-2.4.0-javadoc.jar>central=
+bndlib-2.4.0-sources.jar>central=
