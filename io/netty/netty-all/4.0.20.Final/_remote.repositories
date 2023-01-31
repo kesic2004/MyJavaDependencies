@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 08 18:55:59 CST 2020
+netty-all-4.0.20.Final.jar>central=
+netty-all-4.0.20.Final.pom>central=
+netty-all-4.0.20.Final-sources.jar>central=

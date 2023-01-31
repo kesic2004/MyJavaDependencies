@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 21 23:33:31 GMT-05:00 2021
+grpc-protobuf-lite-1.22.1.jar>central=
+grpc-protobuf-lite-1.22.1.pom>central=
+grpc-protobuf-lite-1.22.1-sources.jar>central=

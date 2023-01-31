@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 23 03:39:42 GMT-05:00 2021
+opentracing-util-0.22.0-sources.jar>central=
+opentracing-util-0.22.0.jar>central=
+opentracing-util-0.22.0.pom>central=

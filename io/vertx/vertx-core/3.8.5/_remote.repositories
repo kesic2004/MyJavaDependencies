@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 23 07:47:59 GMT-05:00 2021
+vertx-core-3.8.5-sources.jar>central=
+vertx-core-3.8.5.jar>central=
+vertx-core-3.8.5.pom>central=

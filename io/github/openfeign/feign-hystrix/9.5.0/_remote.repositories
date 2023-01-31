@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 27 15:33:46 CST 2020
+feign-hystrix-9.5.0.jar>central=
+feign-hystrix-9.5.0.pom>central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 09:47:18 CST 2020
+reactor-spring-context-2.0.6.RELEASE-sources.jar>central=
+reactor-spring-context-2.0.6.RELEASE.jar>central=
+reactor-spring-context-2.0.6.RELEASE.pom>central=

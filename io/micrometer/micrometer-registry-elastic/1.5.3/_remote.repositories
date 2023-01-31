@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Apr 24 01:14:21 GMT-05:00 2021
+micrometer-registry-elastic-1.5.3.jar>central=
+micrometer-registry-elastic-1.5.3-sources.jar>central=
+micrometer-registry-elastic-1.5.3.pom>central=

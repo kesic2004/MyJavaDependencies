@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 23 01:05:39 GMT-05:00 2021
+lettuce-core-5.0.1.RELEASE.jar>central=
+lettuce-core-5.0.1.RELEASE.pom>central=
+lettuce-core-5.0.1.RELEASE-sources.jar>central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Apr 24 01:12:47 GMT-05:00 2021
+feign-jaxrs-10.10.1-sources.jar>central=
+feign-jaxrs-10.10.1.jar>central=
+feign-jaxrs-10.10.1.pom>central=

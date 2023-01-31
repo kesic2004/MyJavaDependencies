@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 23 07:41:51 GMT-05:00 2021
+quarkus-resteasy-common-deployment-1.4.1.Final-sources.jar>central=
+quarkus-resteasy-common-deployment-1.4.1.Final.jar>central=
+quarkus-resteasy-common-deployment-1.4.1.Final.pom>central=

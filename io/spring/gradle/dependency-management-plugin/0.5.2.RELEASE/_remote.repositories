@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Aug 09 12:50:48 CST 2020
+dependency-management-plugin-0.5.2.RELEASE.jar>central=
+dependency-management-plugin-0.5.2.RELEASE.pom>central=
+dependency-management-plugin-0.5.2.RELEASE-javadoc.jar>spring-milestones=
+dependency-management-plugin-0.5.2.RELEASE-sources.jar>central=

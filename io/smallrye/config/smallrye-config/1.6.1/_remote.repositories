@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 23 05:44:11 GMT-05:00 2021
+smallrye-config-1.6.1.jar>central=
+smallrye-config-1.6.1.pom>central=
+smallrye-config-1.6.1-sources.jar>central=
