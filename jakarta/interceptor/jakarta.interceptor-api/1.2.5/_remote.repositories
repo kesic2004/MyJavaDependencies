@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 23 03:11:21 GMT-05:00 2021
+jakarta.interceptor-api-1.2.5.jar>central=
+jakarta.interceptor-api-1.2.5.pom>central=
+jakarta.interceptor-api-1.2.5-sources.jar>central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 23 07:35:44 GMT-05:00 2021
+jakarta.servlet-api-4.0.3.jar>central=
+jakarta.servlet-api-4.0.3-sources.jar>central=
+jakarta.servlet-api-4.0.3.pom>central=

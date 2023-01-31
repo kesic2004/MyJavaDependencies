@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 23 03:11:19 GMT-05:00 2021
+jakarta.enterprise.cdi-api-2.0.2-sources.jar>central=
+jakarta.enterprise.cdi-api-2.0.2.jar>central=
+jakarta.enterprise.cdi-api-2.0.2.pom>central=
