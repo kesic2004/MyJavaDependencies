@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 13 02:33:51 GMT-05:00 2022
+junit-4.10.jar>central=
+junit-4.10.pom>central=
+junit-4.10-sources.jar>central=
+junit-4.10-javadoc.jar>central=
