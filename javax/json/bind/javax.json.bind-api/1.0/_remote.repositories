@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Apr 13 00:19:29 CST 2019
+javax.json.bind-api-1.0.jar>central=
+javax.json.bind-api-1.0.pom>central=
+javax.json.bind-api-1.0-sources.jar>central=
+javax.json.bind-api-1.0-javadoc.jar>central=

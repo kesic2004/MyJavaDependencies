@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 16:40:38 CST 2020
+com.springsource.javax.jms-1.1.0.pom>repository.springframework.maven.plugins-release=
+com.springsource.javax.jms-1.1.0.pom>mvnrepository=
+com.springsource.javax.jms-1.1.0-sources.jar>mvnrepository=
+com.springsource.javax.jms-1.1.0.jar>repository.springframework.maven.plugins-release=
+com.springsource.javax.jms-1.1.0.jar>mvnrepository=
+com.springsource.javax.jms-1.1.0-sources.jar>repository.springframework.maven.plugins-release=

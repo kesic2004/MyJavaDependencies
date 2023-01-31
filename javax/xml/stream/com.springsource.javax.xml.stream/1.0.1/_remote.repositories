@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Apr 09 03:09:11 GMT-05:00 2021
+com.springsource.javax.xml.stream-1.0.1.jar>spring_plugins=
+com.springsource.javax.xml.stream-1.0.1.jar>repository.springframework.maven.plugins-release=
+com.springsource.javax.xml.stream-1.0.1.pom>spring_plugins=
+com.springsource.javax.xml.stream-1.0.1-sources.jar>repository.springframework.maven.plugins-release=
+com.springsource.javax.xml.stream-1.0.1.pom>repository.springframework.maven.plugins-release=

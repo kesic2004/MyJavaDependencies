@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 20:43:53 CST 2020
+com.springsource.javax.xml.rpc-1.1.0.pom>repository.springframework.maven.plugins-release=
+com.springsource.javax.xml.rpc-1.1.0.jar>repository.springframework.maven.plugins-release=
+com.springsource.javax.xml.rpc-1.1.0.pom>mvnrepository=
+com.springsource.javax.xml.rpc-1.1.0.jar>mvnrepository=

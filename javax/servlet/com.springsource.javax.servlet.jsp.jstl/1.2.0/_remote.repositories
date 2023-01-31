@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Apr 10 03:56:03 GMT-05:00 2021
+com.springsource.javax.servlet.jsp.jstl-1.2.0-sources.jar>spring_plugins=
+com.springsource.javax.servlet.jsp.jstl-1.2.0.jar>spring_plugins=
+com.springsource.javax.servlet.jsp.jstl-1.2.0.pom>spring_plugins=
