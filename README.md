@@ -1,1 +1,2 @@
 # MyJavaDependencies
+Maven Java Dependencies
