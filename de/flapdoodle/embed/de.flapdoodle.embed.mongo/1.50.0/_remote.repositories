@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 09:44:07 CST 2020
+de.flapdoodle.embed.mongo-1.50.0-sources.jar>central=
+de.flapdoodle.embed.mongo-1.50.0.pom>central=
+de.flapdoodle.embed.mongo-1.50.0.jar>central=
