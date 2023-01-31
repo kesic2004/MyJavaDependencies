@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 16:41:59 CST 2020
+com.springsource.edu.emory.mathcs.backport-3.0.0.jar>mvnrepository=
+com.springsource.edu.emory.mathcs.backport-3.0.0.pom>repository.springframework.maven.plugins-release=
+com.springsource.edu.emory.mathcs.backport-3.0.0-sources.jar>repository.springframework.maven.plugins-release=
+com.springsource.edu.emory.mathcs.backport-3.0.0-sources.jar>mvnrepository=
+com.springsource.edu.emory.mathcs.backport-3.0.0.jar>repository.springframework.maven.plugins-release=
+com.springsource.edu.emory.mathcs.backport-3.0.0.pom>mvnrepository=
