@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 08 23:59:10 GMT-05:00 2021
+commons-collections-3.2.jar>central=
+commons-collections-3.2.pom>repository.springframework.maven.plugins-release=
+commons-collections-3.2-sources.jar>central=
+commons-collections-3.2.pom>central=
+commons-collections-3.2.jar>repository.springframework.maven.plugins-release=
