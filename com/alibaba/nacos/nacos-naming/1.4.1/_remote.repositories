@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 20 19:18:07 GMT-05:00 2021
+nacos-naming-1.4.1.jar>=
+nacos-naming-1.4.1-sources.jar>=
+nacos-naming-1.4.1.pom>=

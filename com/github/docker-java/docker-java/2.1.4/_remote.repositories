@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 09:52:11 CST 2020
+docker-java-2.1.4.jar>central=
+docker-java-2.1.4.pom>central=
+docker-java-2.1.4-sources.jar>central=

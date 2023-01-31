@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 23 04:56:06 GMT-05:00 2021
+ribbon-core-2.2.4-sources.jar>central=
+ribbon-core-2.2.4.jar>central=
+ribbon-core-2.2.4.pom>central=

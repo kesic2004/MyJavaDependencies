@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Apr 12 01:30:02 CST 2019
+cassandra-driver-core-3.4.0.jar>central=
+cassandra-driver-core-3.4.0.pom>central=
+cassandra-driver-core-3.4.0-sources.jar>central=

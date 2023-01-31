@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 08 18:52:33 CST 2020
+hazelcast-3.5.2.pom>central=
+hazelcast-3.5.2-sources.jar>central=
+hazelcast-3.5.2.jar>central=

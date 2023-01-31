@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jul 27 19:33:53 CST 2020
+reflectasm-1.07-shaded.jar>central=
+reflectasm-1.07.pom>central=
+reflectasm-1.07-sources.jar>central=

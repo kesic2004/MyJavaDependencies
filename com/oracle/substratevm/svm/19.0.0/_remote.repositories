@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 18 02:42:13 GMT-05:00 2022
+svm-19.0.0.jar>central=
+svm-19.0.0-javadoc.jar>central=
+svm-19.0.0.pom>central=
+svm-19.0.0-sources.jar>central=

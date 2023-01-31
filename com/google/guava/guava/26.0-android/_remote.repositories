@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 21 23:29:23 GMT-05:00 2021
+guava-26.0-android-sources.jar>central=
+guava-26.0-android.jar>central=
+guava-26.0-android.pom>central=

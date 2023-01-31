@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 07:00:08 CST 2020
+metrics-core-3.0.2.jar>central=
+metrics-core-3.0.2-sources.jar>central=
+metrics-core-3.0.2.pom>central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 21 22:30:08 CST 2020
+com.springsource.org.h2-1.0.71-sources.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.h2-1.0.71.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.h2-1.0.71.jar>repository.springframework.maven.plugins-release=

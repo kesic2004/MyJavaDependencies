@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 21 23:49:42 GMT-05:00 2021
+hazelcast-3.11.1-sources.jar>central=
+hazelcast-3.11.1.pom>central=
+hazelcast-3.11.1.jar>central=

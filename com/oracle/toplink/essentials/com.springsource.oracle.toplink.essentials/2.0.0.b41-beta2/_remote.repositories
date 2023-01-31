@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 18:39:45 CST 2020
+com.springsource.oracle.toplink.essentials-2.0.0.b41-beta2-sources.jar>repository.springframework.maven.plugins-release=
+com.springsource.oracle.toplink.essentials-2.0.0.b41-beta2-sources.jar>mvnrepository=
+com.springsource.oracle.toplink.essentials-2.0.0.b41-beta2.jar>mvnrepository=
+com.springsource.oracle.toplink.essentials-2.0.0.b41-beta2.pom>spring_plugins=
+com.springsource.oracle.toplink.essentials-2.0.0.b41-beta2.pom>repository.springframework.maven.plugins-release=
+com.springsource.oracle.toplink.essentials-2.0.0.b41-beta2.jar>repository.springframework.maven.plugins-release=

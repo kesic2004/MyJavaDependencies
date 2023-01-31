@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 20 19:17:16 GMT-05:00 2021
+nacos-api-1.4.1.pom>central=
+nacos-api-1.4.1.pom>=
+nacos-api-1.4.1-sources.jar>=
+nacos-api-1.4.1-sources.jar>central=
+nacos-api-1.4.1.jar>=
+nacos-api-1.4.1.jar>central=

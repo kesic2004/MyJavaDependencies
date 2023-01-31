@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 17 03:31:09 GMT-05:00 2022
+sentinel-cluster-server-default-1.8.0-sources.jar>central=
+sentinel-cluster-server-default-1.8.0.pom>central=
+sentinel-cluster-server-default-1.8.0-javadoc.jar>central=
+sentinel-cluster-server-default-1.8.0.jar>central=

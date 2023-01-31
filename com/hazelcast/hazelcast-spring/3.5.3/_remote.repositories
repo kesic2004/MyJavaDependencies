@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 09:45:32 CST 2020
+hazelcast-spring-3.5.3-sources.jar>central=
+hazelcast-spring-3.5.3.jar>central=
+hazelcast-spring-3.5.3.pom>central=

@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 17:41:21 CST 2020
+com.springsource.com.mchange.v2.c3p0-0.9.1.2.pom>repository.springframework.maven.plugins-release=
+com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar>mvnrepository=
+com.springsource.com.mchange.v2.c3p0-0.9.1.2-sources.jar>mvnrepository=
+com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar>repository.springframework.maven.plugins-release=
+com.springsource.com.mchange.v2.c3p0-0.9.1.2-sources.jar>repository.springframework.maven.plugins-release=
+com.springsource.com.mchange.v2.c3p0-0.9.1.2.pom>mvnrepository=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 18 02:42:47 GMT-05:00 2022
+pointsto-19.0.0.jar>central=
+pointsto-19.0.0-javadoc.jar>central=
+pointsto-19.0.0.pom>central=
+pointsto-19.0.0-sources.jar>central=

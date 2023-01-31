@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 17 07:06:27 GMT-05:00 2022
+checkstyle-8.29-javadoc.jar>central=
+checkstyle-8.29-sources.jar>central=
+checkstyle-8.29.jar>central=
+checkstyle-8.29.pom>central=

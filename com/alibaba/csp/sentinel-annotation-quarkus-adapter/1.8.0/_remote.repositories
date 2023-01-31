@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 22 09:22:45 GMT-05:00 2022
+sentinel-annotation-quarkus-adapter-1.8.0.pom>central=
+sentinel-annotation-quarkus-adapter-1.8.0.jar>central=
+sentinel-annotation-quarkus-adapter-1.8.0-sources.jar>central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 07:01:59 CST 2020
+cassandra-driver-core-2.1.9-sources.jar>central=
+cassandra-driver-core-2.1.9.jar>central=
+cassandra-driver-core-2.1.9.pom>central=

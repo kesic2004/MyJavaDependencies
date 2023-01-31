@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 20 19:18:25 GMT-05:00 2021
+nacos-console-1.4.1.pom>=
+nacos-console-1.4.1-sources.jar>=
+nacos-console-1.4.1.jar>=

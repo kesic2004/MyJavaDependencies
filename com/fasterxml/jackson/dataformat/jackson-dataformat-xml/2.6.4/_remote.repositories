@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 07:00:20 CST 2020
+jackson-dataformat-xml-2.6.4-sources.jar>central=
+jackson-dataformat-xml-2.6.4.jar>central=
+jackson-dataformat-xml-2.6.4.pom>central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 20 19:18:20 GMT-05:00 2021
+nacos-istio-1.4.1-sources.jar>=
+nacos-istio-1.4.1.jar>=
+nacos-istio-1.4.1.pom>=

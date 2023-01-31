@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <parent>
+    <artifactId>clients-parent</artifactId>
+    <groupId>com.signalfx.public</groupId>
+    <version>0.0.41</version>
+  </parent>
+  <modelVersion>4.0.0</modelVersion>
+  <artifactId>signalfx-java</artifactId>
+  <name>SignalFx java libraries</name>
+  <description>Bare minimum core library needed to sending metrics to SignalFx from Java clients</description>
+  <url>http://www.signalfx.com</url>
+  <developers>
+    <developer>
+      <id>signalfx</id>
+      <name>SignalFx</name>
+      <email>support+java@signalfx.com</email>
+      <organization>SignalFx, Inc</organization>
+      <organizationUrl>http://www.signalfx.com</organizationUrl>
+    </developer>
+  </developers>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.html</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <scm>
+    <connection>scm:git:git@github.com:signalfx/signalfx-clients.git</connection>
+    <developerConnection>scm:git:git@github.com:signalfx/signalfx-clients.git</developerConnection>
+    <url>git@github.com:signalfx/signalfx-clients.git</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.11</version>
+      <scope>test</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>hamcrest-core</artifactId>
+          <groupId>org.hamcrest</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.jetty</groupId>
+      <artifactId>jetty-server</artifactId>
+      <version>8.1.15.v20140411</version>
+      <scope>test</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>jetty-continuation</artifactId>
+          <groupId>org.eclipse.jetty</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.jetty.orbit</groupId>
+      <artifactId>javax.servlet</artifactId>
+      <version>3.0.0.v201112011016</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-simple</artifactId>
+      <version>1.7.5</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>
+

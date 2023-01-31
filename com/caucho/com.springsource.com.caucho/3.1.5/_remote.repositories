@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 20:48:19 CST 2020
+com.springsource.com.caucho-3.1.5.jar>mvnrepository=
+com.springsource.com.caucho-3.1.5-sources.jar>mvnrepository=
+com.springsource.com.caucho-3.1.5.pom>mvnrepository=
