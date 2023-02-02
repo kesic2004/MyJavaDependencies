@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 17 03:31:23 GMT-05:00 2022
+reactive-streams-1.0.3-sources.jar>central=
+reactive-streams-1.0.3-javadoc.jar>central=
+reactive-streams-1.0.3.jar>central=
+reactive-streams-1.0.3.pom>central=
