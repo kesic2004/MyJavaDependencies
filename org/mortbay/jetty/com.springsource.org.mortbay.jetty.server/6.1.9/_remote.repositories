@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 22 13:46:31 CST 2020
+com.springsource.org.mortbay.jetty.server-6.1.9.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.mortbay.jetty.server-6.1.9.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.mortbay.jetty.server-6.1.9-sources.jar>repository.springframework.maven.plugins-release=
