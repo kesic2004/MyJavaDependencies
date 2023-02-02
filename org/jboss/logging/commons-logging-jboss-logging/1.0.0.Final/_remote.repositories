@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 23 07:06:11 GMT-05:00 2021
+commons-logging-jboss-logging-1.0.0.Final.jar>central=
+commons-logging-jboss-logging-1.0.0.Final.pom>central=
+commons-logging-jboss-logging-1.0.0.Final-sources.jar>central=

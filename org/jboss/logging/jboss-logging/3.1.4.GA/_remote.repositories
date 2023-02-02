@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 08 21:29:52 CST 2020
+jboss-logging-3.1.4.GA-sources.jar>central=
+jboss-logging-3.1.4.GA.jar>central=
+jboss-logging-3.1.4.GA.pom>central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 06:59:13 CST 2020
+jboss-connector-api_1.5_spec-1.0.0.Final.jar>central=
+jboss-connector-api_1.5_spec-1.0.0.Final.pom>central=
+jboss-connector-api_1.5_spec-1.0.0.Final-sources.jar>central=

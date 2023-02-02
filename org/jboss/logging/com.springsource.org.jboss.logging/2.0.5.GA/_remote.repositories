@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 20 15:30:21 CST 2020
+com.springsource.org.jboss.logging-2.0.5.GA.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.jboss.logging-2.0.5.GA.pom>repository.springframework.maven.plugins-release=

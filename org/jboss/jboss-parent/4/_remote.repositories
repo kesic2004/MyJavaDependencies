@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jul 20 17:42:08 CST 2020
+jboss-parent-4.pom>central=
+jboss-parent-4.pom>repository.springframework.maven.plugins-release=

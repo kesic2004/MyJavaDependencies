@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 09:30:18 CST 2020
+xnio-api-3.3.2.Final.jar>central=
+xnio-api-3.3.2.Final.pom>central=
+xnio-api-3.3.2.Final-sources.jar>central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 11 09:01:08 GMT-05:00 2021
+jboss-classloading-spi-5.0.3.GA-sources.jar>central=
+jboss-classloading-spi-5.0.3.GA.jar>central=
+jboss-classloading-spi-5.0.3.GA.pom>central=
