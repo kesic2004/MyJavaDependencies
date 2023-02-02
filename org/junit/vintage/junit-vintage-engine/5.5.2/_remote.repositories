@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 23 06:04:34 GMT-05:00 2021
+junit-vintage-engine-5.5.2-sources.jar>central=
+junit-vintage-engine-5.5.2.jar>central=
+junit-vintage-engine-5.5.2.pom>central=
