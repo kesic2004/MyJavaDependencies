@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 07:02:52 CST 2020
+asm-tree-5.0.1.jar>central=
+asm-tree-5.0.1-sources.jar>central=
+asm-tree-5.0.1.pom>central=
