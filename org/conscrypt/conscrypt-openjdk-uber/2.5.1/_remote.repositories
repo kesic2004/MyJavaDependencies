@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 18 03:14:31 GMT-05:00 2022
+conscrypt-openjdk-uber-2.5.1.jar>central=
+conscrypt-openjdk-uber-2.5.1.pom>central=
+conscrypt-openjdk-uber-2.5.1-javadoc.jar>central=
+conscrypt-openjdk-uber-2.5.1-sources.jar>central=
