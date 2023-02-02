@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 22 19:52:12 CST 2020
+com.springsource.freemarker-2.3.15-sources.jar>repository.springframework.maven.plugins-release=
+com.springsource.freemarker-2.3.15.pom>repository.springframework.maven.plugins-release=
+com.springsource.freemarker-2.3.15.jar>repository.springframework.maven.plugins-release=
