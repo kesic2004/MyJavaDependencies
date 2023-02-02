@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 07 10:53:28 GMT-05:00 2021
+com.springsource.org.objectweb.asm-3.1.0.pom>spring_plugins=
+com.springsource.org.objectweb.asm-3.1.0.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.objectweb.asm-3.1.0.jar>spring_plugins=
+com.springsource.org.objectweb.asm-3.1.0.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.objectweb.asm-3.1.0-sources.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.objectweb.asm-3.1.0-sources.jar>spring_plugins=

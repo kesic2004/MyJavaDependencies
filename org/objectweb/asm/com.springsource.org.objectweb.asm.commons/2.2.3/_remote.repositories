@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 15:35:57 CST 2020
+com.springsource.org.objectweb.asm.commons-2.2.3.jar>mvnrepository=
+com.springsource.org.objectweb.asm.commons-2.2.3-sources.jar>mvnrepository=
+com.springsource.org.objectweb.asm.commons-2.2.3.pom>mvnrepository=
