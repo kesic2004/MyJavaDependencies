@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 19 04:44:52 GMT-05:00 2022
+ehcache-3.4.0.jar>central=
+ehcache-3.4.0.pom>central=
+ehcache-3.4.0-sources.jar>central=
