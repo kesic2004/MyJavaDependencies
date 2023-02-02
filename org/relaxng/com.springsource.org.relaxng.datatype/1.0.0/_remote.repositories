@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jul 20 15:13:34 CST 2020
+com.springsource.org.relaxng.datatype-1.0.0.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.relaxng.datatype-1.0.0.jar>repository.springframework.maven.plugins-release=
