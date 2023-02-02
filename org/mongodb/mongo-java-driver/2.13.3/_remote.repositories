@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 07:01:50 CST 2020
+mongo-java-driver-2.13.3-sources.jar>central=
+mongo-java-driver-2.13.3.jar>central=
+mongo-java-driver-2.13.3.pom>central=
