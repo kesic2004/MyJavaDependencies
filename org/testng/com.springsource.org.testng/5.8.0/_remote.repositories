@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 20:25:16 CST 2020
+com.springsource.org.testng-5.8.0.pom>mvnrepository=
+com.springsource.org.testng-5.8.0.jar>mvnrepository=
+com.springsource.org.testng-5.8.0-sources.jar>mvnrepository=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 26 10:58:32 CST 2020
+com.springsource.org.testng-5.10.0-sources.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.testng-5.10.0.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.testng-5.10.0.jar>repository.springframework.maven.plugins-release=
