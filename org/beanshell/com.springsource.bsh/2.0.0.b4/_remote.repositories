@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 16:25:44 CST 2020
+com.springsource.bsh-2.0.0.b4.pom>repository.springframework.maven.plugins-release=
+com.springsource.bsh-2.0.0.b4.pom>mvnrepository=
+com.springsource.bsh-2.0.0.b4.jar>mvnrepository=
+com.springsource.bsh-2.0.0.b4.jar>repository.springframework.maven.plugins-release=
