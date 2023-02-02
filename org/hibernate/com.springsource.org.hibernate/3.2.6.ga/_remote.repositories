@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 15:51:40 CST 2020
+com.springsource.org.hibernate-3.2.6.ga.jar>mvnrepository=
+com.springsource.org.hibernate-3.2.6.ga.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.hibernate-3.2.6.ga-sources.jar>mvnrepository=
+com.springsource.org.hibernate-3.2.6.ga.pom>mvnrepository=

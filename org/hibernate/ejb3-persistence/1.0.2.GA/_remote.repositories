@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 17 09:25:43 CST 2020
+ejb3-persistence-1.0.2.GA.jar>central=
+ejb3-persistence-1.0.2.GA.pom>central=
+ejb3-persistence-1.0.2.GA-sources.jar>mvnrepository=
+ejb3-persistence-1.0.2.GA.pom>mvnrepository=
+ejb3-persistence-1.0.2.GA.jar>mvnrepository=

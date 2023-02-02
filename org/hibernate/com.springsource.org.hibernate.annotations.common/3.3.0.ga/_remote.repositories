@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 18:39:46 CST 2020
+com.springsource.org.hibernate.annotations.common-3.3.0.ga-sources.jar>mvnrepository=
+com.springsource.org.hibernate.annotations.common-3.3.0.ga.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.hibernate.annotations.common-3.3.0.ga-sources.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.hibernate.annotations.common-3.3.0.ga.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.hibernate.annotations.common-3.3.0.ga.pom>mvnrepository=
+com.springsource.org.hibernate.annotations.common-3.3.0.ga.jar>mvnrepository=

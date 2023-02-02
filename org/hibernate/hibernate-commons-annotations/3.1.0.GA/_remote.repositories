@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 17 09:25:43 CST 2020
+hibernate-commons-annotations-3.1.0.GA.jar>central=
+hibernate-commons-annotations-3.1.0.GA.pom>central=
+hibernate-commons-annotations-3.1.0.GA.pom>mvnrepository=
+hibernate-commons-annotations-3.1.0.GA.jar>mvnrepository=
+hibernate-commons-annotations-3.1.0.GA-sources.jar>mvnrepository=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 19 04:45:31 GMT-05:00 2022
+hibernate-validator-6.2.0.Final.jar>central=
+hibernate-validator-6.2.0.Final-sources.jar>central=
+hibernate-validator-6.2.0.Final.pom>central=

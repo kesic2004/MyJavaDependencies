@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jul 20 21:28:57 CST 2020
+com.springsource.org.hibernate.validator-4.0.0.GA-sources.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.hibernate.validator-4.0.0.GA.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.hibernate.validator-4.0.0.GA.jar>repository.springframework.maven.plugins-release=
