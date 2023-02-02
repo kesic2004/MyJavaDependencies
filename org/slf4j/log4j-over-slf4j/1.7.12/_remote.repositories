@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Aug 09 12:45:48 CST 2020
+log4j-over-slf4j-1.7.12-sources.jar>central=
+log4j-over-slf4j-1.7.12.jar>central=
+log4j-over-slf4j-1.7.12-javadoc.jar>repo.spring.io=
+log4j-over-slf4j-1.7.12.pom>central=

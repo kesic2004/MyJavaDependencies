@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 13 07:44:11 GMT-05:00 2022
+log4j-over-slf4j-1.7.7.jar>central=
+log4j-over-slf4j-1.7.7-sources.jar>central=
+log4j-over-slf4j-1.7.7-javadoc.jar>central=
+log4j-over-slf4j-1.7.7.pom>central=

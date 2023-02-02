@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Apr 10 04:01:31 GMT-05:00 2021
+slf4j-api-1.5.3.pom>repository.springframework.maven.plugins-release=
+slf4j-api-1.5.3-sources.jar>repository.springframework.maven.plugins-release=
+slf4j-api-1.5.3-sources.jar>central=
+slf4j-api-1.5.3.jar>central=
+slf4j-api-1.5.3.jar>repository.springframework.maven.plugins-release=
+slf4j-api-1.5.3.pom>central=
