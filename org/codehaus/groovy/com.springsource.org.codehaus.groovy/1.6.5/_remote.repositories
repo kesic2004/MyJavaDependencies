@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jul 20 21:28:50 CST 2020
+com.springsource.org.codehaus.groovy-1.6.5.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.codehaus.groovy-1.6.5.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.codehaus.groovy-1.6.5-sources.jar>repository.springframework.maven.plugins-release=

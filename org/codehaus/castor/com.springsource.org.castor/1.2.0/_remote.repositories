@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 22 11:41:22 CST 2020
+com.springsource.org.castor-1.2.0.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.castor-1.2.0.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.castor-1.2.0-sources.jar>repository.springframework.maven.plugins-release=

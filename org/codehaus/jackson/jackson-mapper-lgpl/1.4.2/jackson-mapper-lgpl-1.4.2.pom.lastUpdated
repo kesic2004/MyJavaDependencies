@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jan 23 03:36:04 GMT-05:00 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1674462964442
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1674462948073
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.codehaus.jackson\:jackson-mapper-lgpl\:pom\:1.4.2 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer http\://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-lgpl/1.4.2/jackson-mapper-lgpl-1.4.2.pom. Error code 501, HTTPS Required
