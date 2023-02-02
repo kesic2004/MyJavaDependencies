@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 06:57:44 CST 2020
+hornetq-server-2.4.7.Final.jar>central=
+hornetq-server-2.4.7.Final.pom>central=
+hornetq-server-2.4.7.Final-sources.jar>central=
