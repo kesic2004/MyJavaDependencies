@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 08 23:05:06 CST 2020
+thymeleaf-2.1.5.RELEASE.jar>central=
+thymeleaf-2.1.5.RELEASE.pom>central=
+thymeleaf-2.1.5.RELEASE-sources.jar>central=
