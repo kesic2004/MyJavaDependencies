@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 23 06:04:49 GMT-05:00 2021
+microprofile-config-api-1.4.jar>central=
+microprofile-config-api-1.4-sources.jar>central=
+microprofile-config-api-1.4.pom>central=

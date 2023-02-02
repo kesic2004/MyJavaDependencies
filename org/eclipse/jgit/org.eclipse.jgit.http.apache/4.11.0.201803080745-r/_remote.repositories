@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 23 02:16:52 GMT-05:00 2021
+org.eclipse.jgit.http.apache-4.11.0.201803080745-r.pom>central=
+org.eclipse.jgit.http.apache-4.11.0.201803080745-r.jar>central=
+org.eclipse.jgit.http.apache-4.11.0.201803080745-r-sources.jar>central=

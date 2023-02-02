@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 18:39:41 CST 2020
+com.springsource.org.eclipse.persistence.antlr-1.0.1-sources.jar>mvnrepository=
+com.springsource.org.eclipse.persistence.antlr-1.0.1-sources.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.eclipse.persistence.antlr-1.0.1.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.eclipse.persistence.antlr-1.0.1.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.eclipse.persistence.antlr-1.0.1.pom>mvnrepository=
+com.springsource.org.eclipse.persistence.antlr-1.0.1.jar>mvnrepository=
