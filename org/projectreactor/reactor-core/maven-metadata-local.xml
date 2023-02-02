@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.projectreactor</groupId>
+  <artifactId>reactor-core</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0.BUILD-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20201003132207</lastUpdated>
+  </versioning>
+</metadata>
