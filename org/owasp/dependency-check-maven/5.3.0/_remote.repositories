@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 16 15:16:54 CST 2020
+dependency-check-maven-5.3.0.jar>central=
+dependency-check-maven-5.3.0.pom>central=
