@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 25 14:06:41 CST 2020
+jruby-1.6.5.1.jar>central=
+jruby-1.6.5.1.pom>central=
+jruby-1.6.5.1-sources.jar>central=
