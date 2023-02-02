@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 09:27:57 CST 2020
+jooq-3.7.2-sources.jar>central=
+jooq-3.7.2.jar>central=
+jooq-3.7.2.pom>central=
