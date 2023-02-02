@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 23 07:03:08 GMT-05:00 2021
+jakarta.json-1.1.6-sources.jar>central=
+jakarta.json-1.1.6.jar>central=
+jakarta.json-1.1.6.pom>central=

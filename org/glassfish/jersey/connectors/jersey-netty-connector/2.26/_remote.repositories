@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 22 00:12:34 GMT-05:00 2021
+jersey-netty-connector-2.26.jar>central=
+jersey-netty-connector-2.26.pom>central=
+jersey-netty-connector-2.26-sources.jar>central=

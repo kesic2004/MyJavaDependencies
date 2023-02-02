@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 08 18:52:46 CST 2020
+jersey-client-2.21-sources.jar>central=
+jersey-client-2.21.jar>central=
+jersey-client-2.21.pom>central=

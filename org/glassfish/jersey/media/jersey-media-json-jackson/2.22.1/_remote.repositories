@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 07:20:12 CST 2020
+jersey-media-json-jackson-2.22.1-sources.jar>central=
+jersey-media-json-jackson-2.22.1.jar>central=
+jersey-media-json-jackson-2.22.1.pom>central=

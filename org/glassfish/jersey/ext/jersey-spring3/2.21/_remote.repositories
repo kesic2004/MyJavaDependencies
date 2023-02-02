@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 08 19:09:05 CST 2020
+jersey-spring3-2.21-sources.jar>central=
+jersey-spring3-2.21.jar>central=
+jersey-spring3-2.21.pom>central=

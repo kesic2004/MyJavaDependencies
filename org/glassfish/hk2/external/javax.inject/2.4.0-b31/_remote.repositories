@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 06:59:26 CST 2020
+javax.inject-2.4.0-b31.jar>central=
+javax.inject-2.4.0-b31-sources.jar>central=
+javax.inject-2.4.0-b31.pom>central=
