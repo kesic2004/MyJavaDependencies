@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 22 11:14:27 CST 2020
+org.springframework.expression-3.0.0.RELEASE.pom>repository.springframework.maven.plugins-release=
+org.springframework.expression-3.0.0.RELEASE.jar>repository.springframework.maven.plugins-release=
+org.springframework.expression-3.0.0.RELEASE-sources.jar>repository.springframework.maven.plugins-release=

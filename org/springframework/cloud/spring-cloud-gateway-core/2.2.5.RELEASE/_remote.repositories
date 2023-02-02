@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 10 05:33:51 GMT-05:00 2022
+spring-cloud-gateway-core-2.2.5.RELEASE-javadoc.jar>=
+spring-cloud-gateway-core-2.2.5.RELEASE.jar>=
+spring-cloud-gateway-core-2.2.5.RELEASE.jar>central=
+spring-cloud-gateway-core-2.2.5.RELEASE-sources.jar>central=
+spring-cloud-gateway-core-2.2.5.RELEASE.pom>central=
+spring-cloud-gateway-core-2.2.5.RELEASE.pom>=
+spring-cloud-gateway-core-2.2.5.RELEASE-sources.jar>=
+spring-cloud-gateway-core-2.2.5.RELEASE-tests.jar>spring-releases=

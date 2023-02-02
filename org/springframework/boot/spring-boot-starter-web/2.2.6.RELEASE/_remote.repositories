@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 23 05:44:13 GMT-05:00 2021
+spring-boot-starter-web-2.2.6.RELEASE.jar>central=
+spring-boot-starter-web-2.2.6.RELEASE-sources.jar>central=
+spring-boot-starter-web-2.2.6.RELEASE.pom>central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 09 11:13:07 CST 2020
+spring-security-data-4.0.4.RELEASE-sources.jar>spring-milestones=
+spring-security-data-4.0.4.RELEASE.jar>spring-milestones=
+spring-security-data-4.0.4.RELEASE.pom>spring-milestones=

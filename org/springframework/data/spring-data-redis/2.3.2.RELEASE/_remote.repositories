@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 31 02:55:50 GMT-05:00 2022
+spring-data-redis-2.3.2.RELEASE-sources.jar>central=
+spring-data-redis-2.3.2.RELEASE.jar>spring-releases=
+spring-data-redis-2.3.2.RELEASE.jar>central=
+spring-data-redis-2.3.2.RELEASE.pom>central=
+spring-data-redis-2.3.2.RELEASE.pom>spring-releases=

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 20 14:33:55 CST 2020
+org.springframework.asm-3.0.0.RELEASE.pom>repository.springframework.maven.plugins-release=
+org.springframework.asm-3.0.0.RELEASE-sources.jar>repository.springframework.maven.plugins-release=
+org.springframework.asm-3.0.0.RELEASE.jar>repository.springframework.maven.plugins-release=

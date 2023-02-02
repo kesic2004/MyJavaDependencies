@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jan 24 03:21:29 GMT-05:00 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1674548489882
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1674548146385
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-oxm\:pom\:3.0.1.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: connect timed out

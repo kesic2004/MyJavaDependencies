@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 16 10:17:30 GMT-05:00 2022
+spring-webflux-5.2.8.RELEASE-javadoc.jar>central=
+spring-webflux-5.2.8.RELEASE.jar>central=
+spring-webflux-5.2.8.RELEASE-sources.jar>central=
+spring-webflux-5.2.8.RELEASE.pom>central=

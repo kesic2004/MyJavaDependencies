@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 07:02:57 CST 2020
+spring-security-test-4.0.3.RELEASE.jar>spring-milestones=
+spring-security-test-4.0.3.RELEASE-sources.jar>spring-milestones=
+spring-security-test-4.0.3.RELEASE.pom>spring-milestones=

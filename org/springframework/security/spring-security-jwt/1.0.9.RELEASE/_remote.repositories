@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 31 02:55:46 GMT-05:00 2022
+spring-security-jwt-1.0.9.RELEASE.jar>central=
+spring-security-jwt-1.0.9.RELEASE-sources.jar>central=
+spring-security-jwt-1.0.9.RELEASE.pom>central=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 07:18:37 CST 2020
+spring-data-gemfire-1.7.2.RELEASE-javadoc.jar>spring-milestones=
+spring-data-gemfire-1.7.2.RELEASE-sources.jar>spring-milestones=
+spring-data-gemfire-1.7.2.RELEASE.pom>spring-milestones=
+spring-data-gemfire-1.7.2.RELEASE.jar>repo.spring.io=

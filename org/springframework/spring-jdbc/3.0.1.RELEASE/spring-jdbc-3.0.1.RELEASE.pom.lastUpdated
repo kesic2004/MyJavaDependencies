@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jan 24 03:21:32 GMT-05:00 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1674548492256
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1674548149338
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-jdbc\:pom\:3.0.1.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer http\://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.0.1.RELEASE/spring-jdbc-3.0.1.RELEASE.pom. Error code 501, HTTPS Required
