@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 20 13:37:32 CST 2020
+com.springsource.org.easymock-2.5.1.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.easymock-2.5.1-sources.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.easymock-2.5.1.jar>repository.springframework.maven.plugins-release=
