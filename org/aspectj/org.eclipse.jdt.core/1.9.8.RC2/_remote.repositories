@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 15 03:13:33 GMT-05:00 2022
+org.eclipse.jdt.core-1.9.8.RC2-sources.jar>central=
+org.eclipse.jdt.core-1.9.8.RC2-javadoc.jar>central=
+org.eclipse.jdt.core-1.9.8.RC2.jar>central=
+org.eclipse.jdt.core-1.9.8.RC2.pom>central=
