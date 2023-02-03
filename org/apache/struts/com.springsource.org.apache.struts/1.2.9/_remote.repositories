@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 26 10:39:37 CST 2020
+com.springsource.org.apache.struts-1.2.9-sources.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.apache.struts-1.2.9.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.apache.struts-1.2.9.pom>repository.springframework.maven.plugins-release=
