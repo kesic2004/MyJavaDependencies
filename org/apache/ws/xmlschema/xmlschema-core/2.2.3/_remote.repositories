@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 21 23:45:55 GMT-05:00 2021
+xmlschema-core-2.2.3-sources.jar>central=
+xmlschema-core-2.2.3.jar>central=
+xmlschema-core-2.2.3.pom>central=
