@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 09:32:10 CST 2020
+tomcat-embed-jasper-8.0.28-sources.jar>central=
+tomcat-embed-jasper-8.0.28.jar>central=
+tomcat-embed-jasper-8.0.28.pom>central=

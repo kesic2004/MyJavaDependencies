@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 09:30:28 CST 2020
+tomcat-embed-logging-juli-8.0.28.pom>central=
+tomcat-embed-logging-juli-8.0.28.jar>central=
+tomcat-embed-logging-juli-8.0.28-sources.jar>central=
