@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Apr 13 17:07:55 CST 2019
+kafka-clients-1.0.0-javadoc.jar>central=
+kafka-clients-1.0.0-test.jar>central=
+kafka-clients-1.0.0.jar>central=
+kafka-clients-1.0.0.pom>central=
