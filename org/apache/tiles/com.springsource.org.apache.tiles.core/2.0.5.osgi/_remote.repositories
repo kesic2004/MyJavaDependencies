@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 20:48:11 CST 2020
+com.springsource.org.apache.tiles.core-2.0.5.osgi-sources.jar>mvnrepository=
+com.springsource.org.apache.tiles.core-2.0.5.osgi.jar>mvnrepository=
+com.springsource.org.apache.tiles.core-2.0.5.osgi-sources.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.apache.tiles.core-2.0.5.osgi.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.apache.tiles.core-2.0.5.osgi.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.apache.tiles.core-2.0.5.osgi.pom>mvnrepository=
