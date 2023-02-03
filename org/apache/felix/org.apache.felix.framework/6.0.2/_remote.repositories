@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 18 03:21:00 GMT-05:00 2022
+org.apache.felix.framework-6.0.2.jar>central=
+org.apache.felix.framework-6.0.2.pom>central=
+org.apache.felix.framework-6.0.2-javadoc.jar>central=
+org.apache.felix.framework-6.0.2-sources.jar>central=
