@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 07:01:57 CST 2020
+lucene-core-4.10.4-sources.jar>central=
+lucene-core-4.10.4.jar>central=
+lucene-core-4.10.4.pom>central=

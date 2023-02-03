@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 06:59:43 CST 2020
+lucene-queries-4.10.4.jar>central=
+lucene-queries-4.10.4-sources.jar>central=
+lucene-queries-4.10.4.pom>central=

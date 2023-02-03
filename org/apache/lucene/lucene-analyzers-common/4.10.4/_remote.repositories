@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 07:02:31 CST 2020
+lucene-analyzers-common-4.10.4.jar>central=
+lucene-analyzers-common-4.10.4.pom>central=
+lucene-analyzers-common-4.10.4-sources.jar>central=
