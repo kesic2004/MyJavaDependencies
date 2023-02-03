@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 23 07:03:19 GMT-05:00 2021
+wagon-http-3.3.4-sources.jar>central=
+wagon-http-3.3.4.jar>central=
+wagon-http-3.3.4.pom>central=

@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 11 07:43:26 CST 2019
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact org.apache.maven.plugins\:maven-resources-plugin\:pom\:3.0.1 from/to spring-snapshot (https\://repo.spring.io/snapshot)\: repo.spring.io
+https\://repo.spring.io/milestone/.error=Could not transfer artifact org.apache.maven.plugins\:maven-resources-plugin\:pom\:3.0.1 from/to spring-milestone (https\://repo.spring.io/milestone)\: repo.spring.io
+@default-https\://repo.spring.io/milestone/.lastUpdated=1554939806746
+@default-https\://repo.spring.io/snapshot/.lastUpdated=1554939806746
+@default-https\://repo.maven.apache.org/maven2/.lastUpdated=1554939806746
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-resources-plugin\:pom\:3.0.1 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
