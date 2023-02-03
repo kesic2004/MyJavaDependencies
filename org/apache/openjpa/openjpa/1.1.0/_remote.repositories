@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 17 09:25:43 CST 2020
+openjpa-1.1.0.jar>mvnrepository=
+openjpa-1.1.0.jar>central=
+openjpa-1.1.0.pom>mvnrepository=
+openjpa-1.1.0.pom>central=
