@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Aug 09 12:46:18 CST 2020
+log4j-core-2.3.jar>central=
+log4j-core-2.3.pom>repo.spring.io=
+log4j-core-2.3-sources.jar>central=
+log4j-core-2.3-javadoc.jar>repo.spring.io=
+log4j-core-2.3.pom>central=
