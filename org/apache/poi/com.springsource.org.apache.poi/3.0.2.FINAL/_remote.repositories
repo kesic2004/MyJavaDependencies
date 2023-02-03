@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 18:10:20 CST 2020
+com.springsource.org.apache.poi-3.0.2.FINAL.pom>mvnrepository=
+com.springsource.org.apache.poi-3.0.2.FINAL.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.apache.poi-3.0.2.FINAL.jar>mvnrepository=
+com.springsource.org.apache.poi-3.0.2.FINAL-sources.jar>mvnrepository=
+com.springsource.org.apache.poi-3.0.2.FINAL.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.apache.poi-3.0.2.FINAL-sources.jar>repository.springframework.maven.plugins-release=
