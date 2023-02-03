@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 09:29:32 CST 2020
+activemq-jms-pool-5.12.2-sources.jar>central=
+activemq-jms-pool-5.12.2.jar>central=
+activemq-jms-pool-5.12.2.pom>central=

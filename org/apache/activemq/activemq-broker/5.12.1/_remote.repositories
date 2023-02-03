@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 06:58:34 CST 2020
+activemq-broker-5.12.1.jar>central=
+activemq-broker-5.12.1.pom>central=
+activemq-broker-5.12.1-sources.jar>central=
