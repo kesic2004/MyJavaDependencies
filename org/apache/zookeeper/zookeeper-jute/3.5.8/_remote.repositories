@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 16 16:51:50 CST 2020
+zookeeper-jute-3.5.8.jar>central=
+zookeeper-jute-3.5.8.pom>central=
+zookeeper-jute-3.5.8-sources.jar>central=
