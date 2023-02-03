@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 15:07:24 CST 2020
+com.springsource.org.apache.commons.pool-1.3.0-sources.jar>mvnrepository=
+com.springsource.org.apache.commons.pool-1.3.0.pom>mvnrepository=
+com.springsource.org.apache.commons.pool-1.3.0.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.apache.commons.pool-1.3.0.jar>mvnrepository=
+com.springsource.org.apache.commons.pool-1.3.0.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.apache.commons.pool-1.3.0-sources.jar>repository.springframework.maven.plugins-release=

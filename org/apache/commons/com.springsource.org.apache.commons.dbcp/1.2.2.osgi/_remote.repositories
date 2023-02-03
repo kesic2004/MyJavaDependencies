@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 20:48:32 CST 2020
+com.springsource.org.apache.commons.dbcp-1.2.2.osgi.pom>mvnrepository=
+com.springsource.org.apache.commons.dbcp-1.2.2.osgi-sources.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar>mvnrepository=
+com.springsource.org.apache.commons.dbcp-1.2.2.osgi.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar>repository.springframework.maven.plugins-release=
+com.springsource.org.apache.commons.dbcp-1.2.2.osgi-sources.jar>mvnrepository=

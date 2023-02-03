@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with 
+  this work for additional information regarding copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 (the 
+  "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 
+  Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT 
+  WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations 
+  under the License. -->
+<project
+  xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <parent>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-parent</artifactId>
+    <version>22</version>
+  </parent>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.apache.commons</groupId>
+  <artifactId>commons-lang3</artifactId>
+  <version>3.1</version>
+  <name>Commons Lang</name>
+
+  <inceptionYear>2001</inceptionYear>
+  <description>
+  Commons Lang, a package of Java utility classes for the
+  classes that are in java.lang's hierarchy, or are considered to be so
+  standard as to justify existence in java.lang.
+</description>
+
+  <url>http://commons.apache.org/lang/</url>
+
+  <issueManagement>
+    <system>jira</system>
+    <url>http://issues.apache.org/jira/browse/LANG</url>
+  </issueManagement>
+
+  <scm>
+    <connection>scm:svn:http://svn.apache.org/repos/asf/commons/proper/lang/trunk</connection>
+    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/commons/proper/lang/trunk</developerConnection>
+    <url>http://svn.apache.org/viewvc/commons/proper/lang/trunk</url>
+  </scm>
+
+  <developers>
+    <developer>
+      <name>Daniel Rall</name>
+      <id>dlr</id>
+      <email>dlr@finemaltcoding.com</email>
+      <organization>CollabNet, Inc.</organization>
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Stephen Colebourne</name>
+      <id>scolebourne</id>
+      <email>scolebourne@joda.org</email>
+      <organization>SITA ATS Ltd</organization>
+      <timezone>0</timezone>
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Henri Yandell</name>
+      <id>bayard</id>
+      <email>bayard@apache.org</email>
+      <organization />
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Steven Caswell</name>
+      <id>scaswell</id>
+      <email>stevencaswell@apache.org</email>
+      <organization />
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+      <timezone>-5</timezone>
+    </developer>
+    <developer>
+      <name>Robert Burrell Donkin</name>
+      <id>rdonkin</id>
+      <email>rdonkin@apache.org</email>
+      <organization />
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Gary D. Gregory</name>
+      <id>ggregory</id>
+      <email>ggregory@apache.org</email>
+      <timezone>-5</timezone>
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Phil Steitz</name>
+      <id>psteitz</id>
+      <organization />
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Fredrik Westermarck</name>
+      <id>fredrik</id>
+      <email />
+      <organization />
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>James Carman</name>
+      <id>jcarman</id>
+      <email>jcarman@apache.org</email>
+      <organization>Carman Consulting, Inc.</organization>
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Niall Pemberton</name>
+      <id>niallp</id>
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Matt Benson</name>
+      <id>mbenson</id>
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Joerg Schaible</name>
+      <id>joehni</id>
+      <email>joerg.schaible@gmx.de</email>
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+      <timezone>+1</timezone>
+    </developer>
+    <developer>
+      <name>Oliver Heger</name>
+      <id>oheger</id>
+      <email>oheger@apache.org</email>
+      <timezone>+1</timezone>
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Paul Benedict</name>
+      <id>pbenedict</id>
+      <email>pbenedict@apache.org</email>
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+    </developer>
+  </developers>
+  <contributors>
+    <contributor>
+      <name>C. Scott Ananian</name>
+    </contributor>
+    <contributor>
+      <name>Chris Audley</name>
+    </contributor>
+    <contributor>
+      <name>Stephane Bailliez</name>
+    </contributor>
+    <contributor>
+      <name>Michael Becke</name>
+    </contributor>
+    <contributor>
+      <name>Benjamin Bentmann</name>
+    </contributor>
+    <contributor>
+      <name>Ola Berg</name>
+    </contributor>
+    <contributor>
+      <name>Nathan Beyer</name>
+    </contributor>
+    <contributor>
+      <name>Stefan Bodewig</name>
+    </contributor>
+    <contributor>
+      <name>Janek Bogucki</name>
+    </contributor>
+    <contributor>
+      <name>Mike Bowler</name>
+    </contributor>
+    <contributor>
+      <name>Sean Brown</name>
+    </contributor>
+    <contributor>
+      <name>Alexander Day Chaffee</name>
+    </contributor>
+    <contributor>
+      <name>Al Chou</name>
+    </contributor>
+    <contributor>
+      <name>Greg Coladonato</name>
+    </contributor>
+    <contributor>
+      <name>Maarten Coene</name>
+    </contributor>
+    <contributor>
+      <name>Justin Couch</name>
+    </contributor>
+    <contributor>
+      <name>Michael Davey</name>
+    </contributor>
+    <contributor>
+      <name>Norm Deane</name>
+    </contributor>
+    <contributor>
+      <name>Morgan Delagrange</name>
+    </contributor>
+    <contributor>
+      <name>Ringo De Smet</name>
+    </contributor>
+    <contributor>
+      <name>Russel Dittmar</name>
+    </contributor>
+    <contributor>
+      <name>Steve Downey</name>
+    </contributor>
+    <contributor>
+      <name>Matthias Eichel</name>
+    </contributor>
+    <contributor>
+      <name>Christopher Elkins</name>
+    </contributor>
+    <contributor>
+      <name>Chris Feldhacker</name>
+    </contributor>
+    <contributor>
+      <name>Roland Foerther</name>
+    </contributor>
+    <contributor>
+      <name>Pete Gieser</name>
+    </contributor>
+    <contributor>
+      <name>Jason Gritman</name>
+    </contributor>
+    <contributor>
+      <name>Matthew Hawthorne</name>
+    </contributor>
+    <contributor>
+      <name>Michael Heuer</name>
+    </contributor>
+    <contributor>
+      <name>Chris Hyzer</name>
+    </contributor>
+    <contributor>
+      <name>Paul Jack</name>
+    </contributor>
+    <contributor>
+      <name>Marc Johnson</name>
+    </contributor>
+    <contributor>
+      <name>Shaun Kalley</name>
+    </contributor>
+    <contributor>
+      <name>Tetsuya Kaneuchi</name>
+    </contributor>
+    <contributor>
+      <name>Nissim Karpenstein</name>
+    </contributor>
+    <contributor>
+      <name>Ed Korthof</name>
+    </contributor>
+    <contributor>
+      <name>Holger Krauth</name>
+    </contributor>
+    <contributor>
+      <name>Rafal Krupinski</name>
+    </contributor>
+    <contri
