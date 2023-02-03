@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 23 03:26:32 GMT-05:00 2021
+dubbo-2.7.5-sources.jar>central=
+dubbo-2.7.5.jar>central=
+dubbo-2.7.5.pom>central=
