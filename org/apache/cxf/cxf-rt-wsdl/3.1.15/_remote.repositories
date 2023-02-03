@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 21 23:45:03 GMT-05:00 2021
+cxf-rt-wsdl-3.1.15.jar>central=
+cxf-rt-wsdl-3.1.15.pom>central=
+cxf-rt-wsdl-3.1.15-sources.jar>central=

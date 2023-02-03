@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 21 23:44:53 GMT-05:00 2021
+cxf-rt-databinding-jaxb-3.1.15.jar>central=
+cxf-rt-databinding-jaxb-3.1.15.pom>central=
+cxf-rt-databinding-jaxb-3.1.15-sources.jar>central=
