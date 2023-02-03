@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 17:44:27 CST 2020
+com.springsource.org.aspectj.weaver-1.5.4.pom>mvnrepository=
+com.springsource.org.aspectj.weaver-1.5.4.jar>mvnrepository=
