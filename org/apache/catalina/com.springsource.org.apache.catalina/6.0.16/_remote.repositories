@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 15 17:17:41 CST 2020
+com.springsource.org.apache.catalina-6.0.16.pom>repository.springframework.maven.plugins-release=
+com.springsource.org.apache.catalina-6.0.16.pom>mvnrepository=
