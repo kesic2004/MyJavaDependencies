@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.aspectj</groupId>
+  <artifactId>aspectjmatcher</artifactId>
+  <version>1.9.9</version>
+  <name>AspectJ Matcher</name>
+  <description>The AspectJ matcher can be used for matching pointcuts independently of any AspectJ compilation or weaving steps.
+		Most notably, this can be used by frameworks such as Spring AOP which utilise the @AspectJ pointcut syntax but
+		implement aspect weaving in a way independent of AspectJ, e.g. using dynamic proxies.</description>
+  <url>https://www.eclipse.org/aspectj/</url>
+  <licenses>
+    <license>
+      <name>Eclipse Public License - v 2.0</name>
+      <url>https://www.eclipse.org/org/documents/epl-2.0/EPL-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>aclement</id>
+      <name>Andy Clement</name>
+      <email>aclement@vmware.com</email>
+    </developer>
+    <developer>
+      <id>kriegaex</id>
+      <name>Alexander Kriegisch</name>
+      <email>kriegaex@aspectj.dev</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:https://github.com/eclipse/org.aspectj.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com:eclipse/org.aspectj.git</developerConnection>
+    <url>https://github.com/eclipse/org.aspectj</url>
+  </scm>
+  <distributionManagement>
+    <repository>
+      <id>ossrh</id>
+      <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+    </repository>
+    <snapshotRepository>
+      <id>ossrh</id>
+      <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+    </snapshotRepository>
+  </distributionManagement>
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.sonatype.plugins</groupId>
+        <artifactId>nexus-staging-maven-plugin</artifactId>
+        <version>1.6.8</version>
+        <extensions>true</extensions>
+      </plugin>
+    </plugins>
+  </build>
+</project>

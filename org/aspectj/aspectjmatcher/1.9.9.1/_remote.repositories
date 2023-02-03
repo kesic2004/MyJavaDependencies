@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 03 23:26:39 GMT-05:00 2022
+aspectjmatcher-1.9.9.1.jar>central=
+aspectjmatcher-1.9.9.1-sources.jar>central=
+aspectjmatcher-1.9.9.1.pom>central=
