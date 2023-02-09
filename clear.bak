@@ -1,0 +1,9 @@
+@ECHO OFF 
+F:\repo1\com\puppycrawl\tools\checkstyle\6.10.1\checkstyle-6.10.1.pom.lastUpdated
+F:\repo1\org\apache\maven\plugins\maven-checkstyle-plugin\2.16\maven-checkstyle-plugin-2.16.jar.lastUpdated
+F:\repo1\org\apache\maven\plugins\maven-checkstyle-plugin\2.16\maven-checkstyle-plugin-2.16.pom.lastUpdated
+F:\repo1\org\apache\maven\plugins\maven-eclipse-plugin\2.9\maven-eclipse-plugin-2.9.jar.lastUpdated
+F:\repo1\org\apache\maven\plugins\maven-eclipse-plugin\2.9\maven-eclipse-plugin-2.9.pom.lastUpdated
+F:\repo1\org\codehaus\mojo\animal-sniffer-maven-plugin\1.14\animal-sniffer-maven-plugin-1.14.jar.lastUpdated
+F:\repo1\org\codehaus\mojo\animal-sniffer-maven-plugin\1.14\animal-sniffer-maven-plugin-1.14.pom.lastUpdated
+@ECHO ON 
