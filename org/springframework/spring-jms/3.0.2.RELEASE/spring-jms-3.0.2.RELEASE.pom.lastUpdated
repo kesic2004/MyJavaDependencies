@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Jan 24 03:23:44 GMT-05:00 2023
-https\://repo.maven.apache.org/maven2/.lastUpdated=1674548624486
-@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1674548596369
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-jms\:pom\:3.0.2.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer http\://repo.maven.apache.org/maven2/org/springframework/spring-jms/3.0.2.RELEASE/spring-jms-3.0.2.RELEASE.pom. Error code 501, HTTPS Required
