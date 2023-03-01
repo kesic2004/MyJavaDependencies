@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.projectreactor",
+    "module": "reactor-test",
+    "version": "3.4.10",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.5.1",
+      "buildId": "5yvsyvfevjbgzpkybni3auhv6e"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "io.projectreactor",
+          "module": "reactor-core",
+          "version": {
+            "requires": "3.4.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "reactor-test-3.4.10.jar",
+          "url": "reactor-test-3.4.10.jar",
+          "size": 123886,
+          "sha512": "c30c7e3c07855b3807cbef2e1acb996e8c4a5cc1fbe8bbc6ccdb44e8ff47a385c5f63327a6642dbebe5039b18993be99f7f603af9d051065faef7ccec6a4d3c6",
+          "sha256": "dfbd4458bcc64a5ec8b0b35b14c0487ab054bc5a3bae3015bb5ed659848220d9",
+          "sha1": "6442427c01e70350438e9a4f5b0b46cda1675124",
+          "md5": "8dd29e17b5563410b316b084d307c76e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "io.projectreactor",
+          "module": "reactor-core",
+          "version": {
+            "requires": "3.4.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "reactor-test-3.4.10.jar",
+          "url": "reactor-test-3.4.10.jar",
+          "size": 123886,
+          "sha512": "c30c7e3c07855b3807cbef2e1acb996e8c4a5cc1fbe8bbc6ccdb44e8ff47a385c5f63327a6642dbebe5039b18993be99f7f603af9d051065faef7ccec6a4d3c6",
+          "sha256": "dfbd4458bcc64a5ec8b0b35b14c0487ab054bc5a3bae3015bb5ed659848220d9",
+          "sha1": "6442427c01e70350438e9a4f5b0b46cda1675124",
+          "md5": "8dd29e17b5563410b316b084d307c76e"
+        }
+      ]
+    }
+  ]
+}

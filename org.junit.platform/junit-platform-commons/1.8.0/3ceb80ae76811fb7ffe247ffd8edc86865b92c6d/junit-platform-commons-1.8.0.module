@@ -1,0 +1,133 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.junit.platform",
+    "module": "junit-platform-commons",
+    "version": "1.8.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.junit",
+          "module": "junit-bom",
+          "version": {
+            "requires": "5.8.0"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.apiguardian",
+          "module": "apiguardian-api",
+          "version": {
+            "requires": "1.1.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "junit-platform-commons-1.8.0.jar",
+          "url": "junit-platform-commons-1.8.0.jar",
+          "size": 100384,
+          "sha512": "e886d806e4fbb3bec7c9cd4a5c9f126e7d59eeb1dc5b3807e939bd8738b3f2dd414d3c1eb0984abb257b2369403a034a9018418a83d5f7210021d95022f59c87",
+          "sha256": "fa6d170673e1e27395f550cb5a861b7f93c2e541c8503927164e385d4883de27",
+          "sha1": "db17f7b69968e4b64e3ee979f933aa1d3f8fde8f",
+          "md5": "ad29baf0bf0bd02849d2ca74c83fe9de"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.junit",
+          "module": "junit-bom",
+          "version": {
+            "requires": "5.8.0"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        }
+      ],
+      "files": [
+        {
+          "name": "junit-platform-commons-1.8.0.jar",
+          "url": "junit-platform-commons-1.8.0.jar",
+          "size": 100384,
+          "sha512": "e886d806e4fbb3bec7c9cd4a5c9f126e7d59eeb1dc5b3807e939bd8738b3f2dd414d3c1eb0984abb257b2369403a034a9018418a83d5f7210021d95022f59c87",
+          "sha256": "fa6d170673e1e27395f550cb5a861b7f93c2e541c8503927164e385d4883de27",
+          "sha1": "db17f7b69968e4b64e3ee979f933aa1d3f8fde8f",
+          "md5": "ad29baf0bf0bd02849d2ca74c83fe9de"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "junit-platform-commons-1.8.0-javadoc.jar",
+          "url": "junit-platform-commons-1.8.0-javadoc.jar",
+          "size": 337212,
+          "sha512": "de1f33bcebc75833bb16977abf67a90cca38e3126329b419595b51cc11e713c8040aea1e5c57463becedd1d938ce479d0b6e113843f9455239a05ba07af7b8f5",
+          "sha256": "777a808315b90154157f848bfdf9cc7972e6033926cbed791f24fabbadfebdfc",
+          "sha1": "2f7c1d4b23112520408231a490338e3d20d31a29",
+          "md5": "a8b2c4695787ecbb41a565d3e7ff5f1a"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "junit-platform-commons-1.8.0-sources.jar",
+          "url": "junit-platform-commons-1.8.0-sources.jar",
+          "size": 75259,
+          "sha512": "613576569d8c1e9ebbcdce955a8198cbfef3b90b01857e3842944b848cde62f905cf9e32fc9a4febe8a6b512777ad4c56dda3ed6c39c252fc10c7ae8daeddf4f",
+          "sha256": "0bd85e5b946ea7aacab69dd5e83a0d27bcbdc0f0fb3d6202080b5747d896d0c1",
+          "sha1": "f79e5fddf62024535471ad28acccf5079338d7fc",
+          "md5": "037bc944cbfb980f6cd3371ccde4b783"
+        }
+      ]
+    }
+  ]
+}
