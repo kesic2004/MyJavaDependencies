@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.netflix.nebula</groupId>
+  <artifactId>nebula-bintray-plugin</artifactId>
+  <version>3.5.4</version>
+  <dependencies>
+    <dependency>
+      <groupId>com.jfrog.bintray.gradle</groupId>
+      <artifactId>gradle-bintray-plugin</artifactId>
+      <version>1.8.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.jfrog.buildinfo</groupId>
+      <artifactId>build-info-extractor-gradle</artifactId>
+      <version>4.7.3</version>
+      <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>groovy-all</artifactId>
+          <groupId>org.codehaus.groovy</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+  </dependencies>
+  <name>nebula-bintray-plugin</name>
+  <description>Additional Bintray tasks</description>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>quidryan</id>
+      <name>Justin Ryan</name>
+      <email>justin@halfempty.org</email>
+    </developer>
+    <developer>
+      <id>rspieldenner</id>
+      <name>Rob Spieldenner</name>
+      <email>rob.spieldenner@gmail.com</email>
+    </developer>
+  </developers>
+  <properties>
+    <nebula_Manifest_Version>1.0</nebula_Manifest_Version>
+    <nebula_Implementation_Title>com.netflix.nebula#nebula-bintray-plugin;3.5.4</nebula_Implementation_Title>
+    <nebula_Implementation_Version>3.5.4</nebula_Implementation_Version>
+    <nebula_Built_Status>integration</nebula_Built_Status>
+    <nebula_Built_By>travis</nebula_Built_By>
+    <nebula_Built_OS>Linux</nebula_Built_OS>
+    <nebula_Build_Date>2018-06-11_16:11:07</nebula_Build_Date>
+    <nebula_Gradle_Version>4.7</nebula_Gradle_Version>
+    <nebula_Module_Owner>justin@halfempty.org,rob.spieldenner@gmail.com</nebula_Module_Owner>
+    <nebula_Module_Email>justin@halfempty.org,rob.spieldenner@gmail.com</nebula_Module_Email>
+    <nebula_Module_Source></nebula_Module_Source>
+    <nebula_Module_Origin>https://github.com/nebula-plugins/nebula-bintray-plugin.git</nebula_Module_Origin>
+    <nebula_Change>bd59f4b</nebula_Change>
+    <nebula_Branch>bd59f4ba380ac3efadbfb5e7f6e2cbfb453dc087</nebula_Branch>
+    <nebula_Build_Host>travis-job-nebula-plugins-nebula-bintray-390853092.travisci.net</nebula_Build_Host>
+    <nebula_Build_Job>nebula-plugins/nebula-bintray-plugin</nebula_Build_Job>
+    <nebula_Build_Number>184</nebula_Build_Number>
+    <nebula_Build_Id>390853091</nebula_Build_Id>
+    <nebula_Created_By>1.8.0_151-b12 (Oracle Corporation)</nebula_Created_By>
+    <nebula_Build_Java_Version>1.8.0_151</nebula_Build_Java_Version>
+    <nebula_X_Compile_Target_JDK>1.7</nebula_X_Compile_Target_JDK>
+    <nebula_X_Compile_Source_JDK>1.7</nebula_X_Compile_Source_JDK>
+  </properties>
+  <url>https://github.com/nebula-plugins/nebula-bintray-plugin</url>
+  <scm>
+    <url>https://github.com/nebula-plugins/nebula-bintray-plugin.git</url>
+  </scm>
+</project>

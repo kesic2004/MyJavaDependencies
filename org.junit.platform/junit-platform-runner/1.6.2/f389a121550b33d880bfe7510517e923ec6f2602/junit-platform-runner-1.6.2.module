@@ -1,0 +1,201 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.junit.platform",
+    "module": "junit-platform-runner",
+    "version": "1.6.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.1",
+      "buildId": "6z5e52fxwrbhlhwdrxkyhcdiiu"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.junit",
+          "module": "junit-bom",
+          "version": {
+            "requires": "5.6.2"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "junit",
+          "module": "junit",
+          "version": {
+            "requires": "4.13"
+          }
+        },
+        {
+          "group": "org.apiguardian",
+          "module": "apiguardian-api",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "org.junit.platform",
+          "module": "junit-platform-launcher",
+          "version": {
+            "requires": "1.6.2"
+          }
+        },
+        {
+          "group": "org.junit.platform",
+          "module": "junit-platform-suite-api",
+          "version": {
+            "requires": "1.6.2"
+          }
+        }
+      ],
+      "dependencyConstraints": [
+        {
+          "group": "junit",
+          "module": "junit",
+          "version": {
+            "requires": "4.13"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "junit-platform-runner-1.6.2.jar",
+          "url": "junit-platform-runner-1.6.2.jar",
+          "size": 18465,
+          "sha512": "6cf13beb2d2fe89f7b37952a5f6a54616e84796beb650b282df9328eff0e12a371e4aafe013e2f06f222312e88fd77e95d09baa9f339182402ad05510f08b5e9",
+          "sha256": "656f851578ff5930a05cd08e19296fb7ae451f5e4a350f0705b3e4574ef9ba23",
+          "sha1": "5a466628f20c415f6e786abfce6cd206a7a96c97",
+          "md5": "e43a89bdebfb0021ef2a3d7ca53f4270"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.junit",
+          "module": "junit-bom",
+          "version": {
+            "requires": "5.6.2"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "junit",
+          "module": "junit",
+          "version": {
+            "requires": "4.13"
+          }
+        },
+        {
+          "group": "org.apiguardian",
+          "module": "apiguardian-api",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "org.junit.platform",
+          "module": "junit-platform-launcher",
+          "version": {
+            "requires": "1.6.2"
+          }
+        },
+        {
+          "group": "org.junit.platform",
+          "module": "junit-platform-suite-api",
+          "version": {
+            "requires": "1.6.2"
+          }
+        }
+      ],
+      "dependencyConstraints": [
+        {
+          "group": "junit",
+          "module": "junit",
+          "version": {
+            "requires": "4.13"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "junit-platform-runner-1.6.2.jar",
+          "url": "junit-platform-runner-1.6.2.jar",
+          "size": 18465,
+          "sha512": "6cf13beb2d2fe89f7b37952a5f6a54616e84796beb650b282df9328eff0e12a371e4aafe013e2f06f222312e88fd77e95d09baa9f339182402ad05510f08b5e9",
+          "sha256": "656f851578ff5930a05cd08e19296fb7ae451f5e4a350f0705b3e4574ef9ba23",
+          "sha1": "5a466628f20c415f6e786abfce6cd206a7a96c97",
+          "md5": "e43a89bdebfb0021ef2a3d7ca53f4270"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "junit-platform-runner-1.6.2-javadoc.jar",
+          "url": "junit-platform-runner-1.6.2-javadoc.jar",
+          "size": 407682,
+          "sha512": "3e43231f925c26ae6fefdac9d1d2618ba4de9b49d6b01d2260339f54642113dfe04d98fdda320db30126dda9967651d5ba41a7adc7f51b6388bc98fe133264fa",
+          "sha256": "8f0a271061e084dd0b36adb3768a52db67c40984d2197b8eb78ee759a3668531",
+          "sha1": "1b51c66439af511b6362a5f54bb380bd3f710411",
+          "md5": "231db21ddb3ca70c5d86295fd1df3aa4"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "junit-platform-runner-1.6.2-sources.jar",
+          "url": "junit-platform-runner-1.6.2-sources.jar",
+          "size": 12824,
+          "sha512": "1f25ac814af6cd12d34d8e9f33f408c46a935ac6b7163a0306d2b7e14d90adc9f21a82134615722162df9caa83d13b447e1368d5e9e6b752ebf9cf33ff0bb29d",
+          "sha256": "148b297a9bdc8aa3f7bf66b6a3af9d7cc7db91e59723369efd545a39d3c2a9a1",
+          "sha1": "1878b36b0eef67eb5482a5f7b1e511a5d9b41199",
+          "md5": "3e6aca040365da90f42693259dd433a8"
+        }
+      ]
+    }
+  ]
+}
