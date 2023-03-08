@@ -1,0 +1,77 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.mockk",
+    "module": "mockk-common",
+    "version": "1.10.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.3",
+      "buildId": "e7o47g3kmfbxfdn3tusdkaz6sa"
+    }
+  },
+  "variants": [
+    {
+      "name": "common-api",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.mockk",
+          "module": "mockk-dsl",
+          "version": {
+            "requires": "1.10.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "mockk-common-1.10.0.jar",
+          "url": "mockk-common-1.10.0.jar",
+          "size": 43673,
+          "sha512": "b839f0a3340646a4bad1cceaa8b35c98fe9b703678bea4509525d911b0e82f1f5c643a2b19e9bb37db724644eccd38d1d1a2df9c2c76c42394da40497e4f79b1",
+          "sha256": "7d04767dc397595b1de24b3331ef0256fe91e37941d7a8cd7a73745511bfaae1",
+          "sha1": "7d2b40e91c2bb479e73d1f0a7f36dd76f5d3bb22",
+          "md5": "09432c5cdf8f97b1f73106eed1f67561"
+        }
+      ]
+    },
+    {
+      "name": "common-runtime",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.mockk",
+          "module": "mockk-dsl",
+          "version": {
+            "requires": "1.10.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "mockk-common-1.10.0.jar",
+          "url": "mockk-common-1.10.0.jar",
+          "size": 43673,
+          "sha512": "b839f0a3340646a4bad1cceaa8b35c98fe9b703678bea4509525d911b0e82f1f5c643a2b19e9bb37db724644eccd38d1d1a2df9c2c76c42394da40497e4f79b1",
+          "sha256": "7d04767dc397595b1de24b3331ef0256fe91e37941d7a8cd7a73745511bfaae1",
+          "sha1": "7d2b40e91c2bb479e73d1f0a7f36dd76f5d3bb22",
+          "md5": "09432c5cdf8f97b1f73106eed1f67561"
+        }
+      ]
+    }
+  ]
+}

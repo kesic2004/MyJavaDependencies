@@ -1,0 +1,79 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.mockk",
+    "module": "mockk-agent-common",
+    "version": "1.10.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.3",
+      "buildId": "e7o47g3kmfbxfdn3tusdkaz6sa"
+    }
+  },
+  "variants": [
+    {
+      "name": "-api",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "io.mockk",
+          "module": "mockk-agent-api",
+          "version": {
+            "requires": "1.10.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "mockk-agent-common-1.10.0.jar",
+          "url": "mockk-agent-common-1.10.0.jar",
+          "size": 39032,
+          "sha512": "8a98fe7c98d9dde4743b8d17a4e428424b13425a6014d0f4a00d85db58dc282ecd7d721c1bd132c603ae31f5a59672979e952b584fd8bb4d4ea57b67e725b2af",
+          "sha256": "d2b9f0388378687808eb387d10dbd90ce70134f5e5fe71dd88384e7e14f672a8",
+          "sha1": "75e868f97405dc8d367d028dac80239266c48e6f",
+          "md5": "3fa9333f90f34ca76df0797dce5c7070"
+        }
+      ]
+    },
+    {
+      "name": "-runtime",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "io.mockk",
+          "module": "mockk-agent-api",
+          "version": {
+            "requires": "1.10.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "mockk-agent-common-1.10.0.jar",
+          "url": "mockk-agent-common-1.10.0.jar",
+          "size": 39032,
+          "sha512": "8a98fe7c98d9dde4743b8d17a4e428424b13425a6014d0f4a00d85db58dc282ecd7d721c1bd132c603ae31f5a59672979e952b584fd8bb4d4ea57b67e725b2af",
+          "sha256": "d2b9f0388378687808eb387d10dbd90ce70134f5e5fe71dd88384e7e14f672a8",
+          "sha1": "75e868f97405dc8d367d028dac80239266c48e6f",
+          "md5": "3fa9333f90f34ca76df0797dce5c7070"
+        }
+      ]
+    }
+  ]
+}
