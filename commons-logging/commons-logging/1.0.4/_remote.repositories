@@ -1,5 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Sep 15 18:11:37 CST 2020
+#Mon Feb 27 09:59:02 EST 2023
+commons-logging-1.0.4-sources.jar>central=
+commons-logging-1.0.4-javadoc.jar>central=
 commons-logging-1.0.4.jar>central=
 commons-logging-1.0.4.pom>central=
 commons-logging-1.0.4-sources.jar>mvnrepository=

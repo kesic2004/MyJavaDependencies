@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed May 18 07:47:21 GMT-05:00 2022
-javassist-3.23.1-GA.pom>central=
+#Wed Mar 01 01:06:09 EST 2023
 javassist-3.23.1-GA.jar>central=
+javassist-3.23.1-GA.pom>central=
+javassist-3.23.1-GA-sources.jar>central=

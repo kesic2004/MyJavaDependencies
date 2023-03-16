@@ -1,5 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Apr 21 23:45:45 GMT-05:00 2021
+#Wed Mar 01 07:54:39 EST 2023
 FastInfoset-1.2.12.jar>central=
 FastInfoset-1.2.12.pom>central=
 FastInfoset-1.2.12-sources.jar>central=
+FastInfoset-1.2.12-javadoc.jar>central=
