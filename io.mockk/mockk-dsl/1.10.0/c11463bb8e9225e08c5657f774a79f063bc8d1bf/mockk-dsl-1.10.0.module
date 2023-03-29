@@ -1,0 +1,59 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.mockk",
+    "module": "mockk-dsl",
+    "version": "1.10.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.3",
+      "buildId": "e7o47g3kmfbxfdn3tusdkaz6sa"
+    }
+  },
+  "variants": [
+    {
+      "name": "common-api",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "mockk-dsl-1.10.0.jar",
+          "url": "mockk-dsl-1.10.0.jar",
+          "size": 39038,
+          "sha512": "2c172fa92f3c9d1bccd0f36b3f0d76ca4c6a471e6e6c94155b5bc06c02d6ee22b03c01adab6197a27f6504dfacdf5cb32d0474fd7fedda61576adeb56e8824aa",
+          "sha256": "553bed792babf8263086a873aa2903302e01c718c47641793eb9853873c9b1d1",
+          "sha1": "aa3b68d98fad6c089078c4053dde5e24c896d2f2",
+          "md5": "7d131cd33d8e83bf4c95de000c1339bb"
+        }
+      ]
+    },
+    {
+      "name": "common-runtime",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mockk-dsl-1.10.0.jar",
+          "url": "mockk-dsl-1.10.0.jar",
+          "size": 39038,
+          "sha512": "2c172fa92f3c9d1bccd0f36b3f0d76ca4c6a471e6e6c94155b5bc06c02d6ee22b03c01adab6197a27f6504dfacdf5cb32d0474fd7fedda61576adeb56e8824aa",
+          "sha256": "553bed792babf8263086a873aa2903302e01c718c47641793eb9853873c9b1d1",
+          "sha1": "aa3b68d98fad6c089078c4053dde5e24c896d2f2",
+          "md5": "7d131cd33d8e83bf4c95de000c1339bb"
+        }
+      ]
+    }
+  ]
+}

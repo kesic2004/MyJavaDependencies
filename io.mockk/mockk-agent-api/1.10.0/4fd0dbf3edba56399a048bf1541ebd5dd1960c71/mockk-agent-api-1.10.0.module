@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.mockk",
+    "module": "mockk-agent-api",
+    "version": "1.10.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.3",
+      "buildId": "e7o47g3kmfbxfdn3tusdkaz6sa"
+    }
+  },
+  "variants": [
+    {
+      "name": "-api",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "mockk-agent-api-1.10.0.jar",
+          "url": "mockk-agent-api-1.10.0.jar",
+          "size": 11053,
+          "sha512": "9dc766c82c2f02ad28ef1e490fb355a6558cae1ede21d4accb926f90aa8ca185f2979c98e8d382b86bfd689ee005d4fbdd0d62d8c3c7e6fbadd6778321adfe98",
+          "sha256": "54e20f25454e627db4623ebbd9972983f917afb803e971e02103717a7caa78b8",
+          "sha1": "3990d27fd5d5eb3df041bdb0fd31ac7a14e7575b",
+          "md5": "9c1af1bb4728ed521e0bc1f0886c22e3"
+        }
+      ]
+    },
+    {
+      "name": "-runtime",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "mockk-agent-api-1.10.0.jar",
+          "url": "mockk-agent-api-1.10.0.jar",
+          "size": 11053,
+          "sha512": "9dc766c82c2f02ad28ef1e490fb355a6558cae1ede21d4accb926f90aa8ca185f2979c98e8d382b86bfd689ee005d4fbdd0d62d8c3c7e6fbadd6778321adfe98",
+          "sha256": "54e20f25454e627db4623ebbd9972983f917afb803e971e02103717a7caa78b8",
+          "sha1": "3990d27fd5d5eb3df041bdb0fd31ac7a14e7575b",
+          "md5": "9c1af1bb4728ed521e0bc1f0886c22e3"
+        }
+      ]
+    }
+  ]
+}
